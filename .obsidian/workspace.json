@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "log/2025-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-03-20"
             }
           }
         ]
@@ -170,10 +170,11 @@
   },
   "active": "bd17268bb76b9e14",
   "lastOpenFiles": [
-    "log/2025-03-20.md",
+    "tpl/随意记录.md",
     "tpl/学习日报.md",
-    "lib/english/单词默写错误整理.md",
+    "log/2025-03-20.md",
     "README.md",
+    "lib/english/单词默写错误整理.md",
     "lib/english",
     "lib",
     "log/2025-03-19.md",
