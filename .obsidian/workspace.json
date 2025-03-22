@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2025-03-21.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "README"
             }
           }
         ]
@@ -170,13 +170,30 @@
   },
   "active": "bd17268bb76b9e14",
   "lastOpenFiles": [
-    "log/2025-03-20.md",
-    "log/2025-03-21.md",
+    "log/2025-03-22.md",
     "README.md",
+    "lib/mathematicsAdvanced/org/wendu/test/-list.md",
+    "lib/mathematicsAdvanced/org/wendu/test/weekB03.md",
+    "lib/mathematicsAdvanced/org/wendu/test/weekB02.md",
+    "weekB01.md",
+    "lib/mathematicsAdvanced/org/wendu/test/weekB01.md",
+    "lib/mathematicsAdvanced/org/wendu/test",
+    "lib/mathematicsAdvanced/org/wendu",
+    "lib/mathematicsAdvanced/org",
+    "lib/mathematicsAdvanced/formulaDicNRec/-list.md",
+    "lib/mathematicsAdvanced/formulaDicNRec",
+    "lib/mathematicsAdvanced",
+    "lib/englishPostgraduate/recErrSummary.md",
+    "lib/englishPostgraduate/recErrSummary 1.md",
+    "lib/englishPostgraduate",
+    "lib/advancedMath/formulaDicNRec/-list.md",
+    "lib/advancedMath/formulaDicNRec",
+    "lib/advancedMath",
+    "log/2025-03-21.md",
+    "log/2025-03-20.md",
     "tpl/学习日报.md",
     "tpl/随意记录.md",
     "未命名.canvas",
-    "lib/english/单词默写错误整理.md",
     "lib/english",
     "lib",
     "log/2025-03-19.md",
