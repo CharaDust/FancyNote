@@ -168,11 +168,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd17268bb76b9e14",
+  "active": "820f926d754efe56",
   "lastOpenFiles": [
+    "lib/englishPostgraduate/org/wendu",
+    "lib/englishPostgraduate/org",
+    "log/2025-03-26.md",
     "log/2025-03-25.md",
-    "log/2025-03-24.md",
     "README.md",
+    "log/2025-03-24.md",
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/chapter_04/SString.cpp",
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/chapter_04/KMP.cpp",
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/chapter_04",
@@ -182,7 +185,6 @@
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/bin/debugMacOS/launcher.dSYM/Contents/Resources/Relocations/x86_64",
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/bin/debugMacOS/launcher.dSYM/Contents/Resources/DWARF/launcher",
     "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/bin/debugMacOS/launcher.dSYM/Contents/Resources/Relocations",
-    "lib/computerDataStructNAlgorithms/org/WangDao/codeNote/bin/debugMacOS/launcher.dSYM/Contents/Resources/DWARF",
     "log/2025-03-23.md",
     "lib/mathematicsAdvanced/org/wendu/test/weekB03.md",
     "lib/mathematicsAdvanced/org/wendu/test/-list.md",
@@ -204,8 +206,6 @@
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CA/积分 (A簿).md",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CA/等价无穷小 (A簿).md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CC/等价无穷小 (C簿).md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CC/积分 (C簿).md",
     "未命名.canvas"
   ]
 }
