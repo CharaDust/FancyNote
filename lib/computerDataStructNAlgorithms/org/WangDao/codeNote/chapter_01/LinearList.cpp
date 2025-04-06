@@ -11,7 +11,7 @@ void DestroyList(ClassType &L); // 销毁表
 Unknown ListInsert(ElemType &L, int index, ElemType elem); // 插入元素
 Unknown ListDelete(ElemType &L, int index, ElemType &elem); // 删除元素
 Unknown LocateElem(ElemType L, ElemType key); // 按值查找
-Unknown LocateElem(ElemType L, int order); // 按序查找
+Unknown GetElem(ElemType L, int order); // 按序查找
 
 // 线性表的常用操作
 int LengthList(ElemType L); // 求线性表长
