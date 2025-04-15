@@ -1,11 +1,12 @@
 # FancyNote(繁星笔记)
 Chara Dust 的个人公开笔记和知识库
+建议使用Obsidian笔记软件打开
 
 ## 最近更新
+[高等数学每周测试清单](./lib/mathematicsAdvanced/org/wendu/test/-list.md)
 [url.文都考研数学录播课——湘工程进度](https://pan.baidu.com/s/14VylZHRlohAtcLewGR1jug?pwd=77ji)
 [url.文都考研英语录播课——湘工程进度](https://pan.baidu.com/s/14m9Uny-li9lnu9WmUhPPkw?pwd=i3q7)
 [url.文都考研数学录播课——湘大进度]()
-[高等数学每周测试清单](./lib/mathematicsAdvanced/org/wendu/test/-list.md)
 [高等数学公式默写清单](./lib/mathematicsAdvanced/formulaDicNRec/-list.md)
 
 
