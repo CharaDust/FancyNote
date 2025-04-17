@@ -64,7 +64,7 @@ $$
 
 14. $[x]$ 表示不超过 $x$ 的最大整数，试确定常数 $a$ 的值，使极限  
 $$
-\lim_{x \to \infty} \left( \frac{[x]}{\ln(1+e^x)} + a \left| \frac{1}{x} \right| \right)
+\lim_{x \to \infty} \left( \frac{[\ln(1+e^{2x})]}{\ln(1+e^x)} + a \left[ \frac{1}{x} \right] \right)
 $$
 	存在并求此极限值。  
 
