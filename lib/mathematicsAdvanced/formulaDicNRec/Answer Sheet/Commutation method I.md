@@ -1,6 +1,6 @@
 ## Dic. & Rec. Date: \_\_\_\_ / \_\_\_\_ / 2025
 #### Linear formula:
-$$
+$$  
 \begin{align*}
 
 \int \underline{~f({~ax+b~})~}dx
@@ -10,7 +10,7 @@ d(\underline{~ax+b~})
 \end{align*}
 $$
 #### Logarithmic formula:
-$$
+$$  
 \begin{align*}
 
 \int \underline{~f({~\ln x~})\frac{1}{~x~}~}dx
@@ -20,7 +20,7 @@ d(\underline{~\ln x~})
 \end{align*}
 $$
 #### Power formula:
-$$
+$$  
 \begin{align*}
 
 \int \underline{~f({~x^n~})x^{n-1}~}dx
@@ -37,7 +37,7 @@ d(\underline{~\frac{1}{~x~}~})\\\\
 \end{align*}
 $$
 #### Exponential formula:
-$$
+$$  
 \begin{align*}
 
 \int \underline{~f({~e^x~})e^x~}dx

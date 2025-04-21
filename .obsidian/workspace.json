@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/englishPostgraduate/org/wendu/classB08 - words n' phase.md",
+                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "classB08 - words n' phase"
+              "title": "Commutation method I"
             }
           }
         ]
@@ -170,8 +170,14 @@
   },
   "active": "bd17268bb76b9e14",
   "lastOpenFiles": [
-    "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet/Adverbial Adjunct (grammar).md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
     "lib/englishPostgraduate/org/wendu/classB08 - words n' phase.md",
+    "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet/Adverbial Adjunct (grammar).md",
     "Blank Sheet A/Adverbial Adjunct (grammar).md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet A/Adverbial Adjunct (grammar) (Sheet A).md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet B/Adverbial Adjunct (grammar) (Sheet B).md",
@@ -187,7 +193,6 @@
     "Blank Sheet A",
     "lib/mathematicsAdvanced/formulaDicNRec/-list.md",
     "lib/mathematicsAdvanced/org/wendu/test/-list.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet",
     "lib/englishPostgraduate/recErrSummary.md",
     "lib/englishPostgraduate/org/wendu/DicNRec",
@@ -200,12 +205,7 @@
     "idea/预定拍摄计划明细.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "lib/mathematicsAdvanced/org/wendu/test/weekB01.md",
-    "lib/mathematicsAdvanced/org/wendu/test/weekB04.md",
-    "lib/mathematicsAdvanced/org/wendu/test/weekB02.md",
-    "lib/mathematicsAdvanced/org/wendu/test/weekB03.md",
-    "lib/computerDataStructNAlgorithms/org/WangDao/resLnk.md",
     "fav",
-    "log/2025-03-26.md",
     "未命名.canvas"
   ]
 }
