@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Times New Roman,SimSong",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Courier"
 }

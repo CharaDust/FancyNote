@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"c7fa92e5954165fe","type":"text","text":"#### 积分中值定理\n\n$\\LaTeX$\n","x":-100,"y":-100,"width":300,"height":180},
+		{"id":"7639bd227b6300d9","type":"text","text":"直接去掉积分符号","x":-75,"y":-280,"width":250,"height":60},
+		{"id":"19375b3722ec0d81","type":"text","text":"求极限","x":-75,"y":-560,"width":250,"height":60},
+		{"id":"9861c798fd9951d6","type":"text","text":"带有积分符号","x":-75,"y":-420,"width":250,"height":60},
+		{"id":"50c5ebb799dd290f","x":540,"y":-260,"width":250,"height":120,"type":"text","text":"根号下积分变量带平方\n\n$\\sqrt{\\pm a^2\\pm x^2}$"},
+		{"id":"c4c65fe1b80a8344","x":460,"y":-420,"width":250,"height":100,"type":"text","text":"存在根号\n\n$\\sqrt{x}$"},
+		{"id":"c3386c48dbe7488f","x":840,"y":-420,"width":250,"height":100,"type":"text","text":"根号下积分变量带多个次\n\n$\\sqrt{ax^2+bx}$"},
+		{"id":"c3561ada5335f248","x":1160,"y":-400,"width":250,"height":60,"type":"text","text":"配方换元"},
+		{"id":"1c6782c666929ce9","x":460,"y":-580,"width":250,"height":60,"type":"text","text":"求不定积分"},
+		{"id":"eb9a9877e81f6b8c","x":880,"y":-260,"width":250,"height":140,"type":"text","text":"#### 三角代换\n\n$\\LaTeX$"},
+		{"id":"895005faad4f180a","x":840,"y":-760,"width":250,"height":100,"type":"text","text":"存在三角函数\n\n$\\int\\sin x~~\\cos x~~\\tan x$"},
+		{"id":"a5ba44470442ef7a","x":1200,"y":-760,"width":250,"height":100,"type":"text","text":"弦三角函数次数极高\n\n$\\sin^7x~~\\cos^8x$"},
+		{"id":"1b430b5ede6841c9","x":1560,"y":-760,"width":250,"height":120,"type":"text","text":"#### 华里士公式\n\n$\\LaTeX$"},
+		{"id":"fc4323f122c8e1bc","x":460,"y":-1020,"width":250,"height":60,"type":"text","text":"求定积分"},
+		{"id":"5ac393457ae5f239","x":1640,"y":-900,"width":250,"height":60,"type":"text","text":"尝试方法"},
+		{"id":"fff7856434691e17","x":1960,"y":-980,"width":250,"height":140,"type":"text","text":"#### 区间再现公式\n\n$\\LaTeX$"},
+		{"id":"d8f55e6a42a4c970","x":1300,"y":-900,"width":250,"height":60,"type":"text","text":"无从下手？"}
+	],
+	"edges":[
+		{"id":"c27de582ff4834e0","fromNode":"7639bd227b6300d9","fromSide":"bottom","toNode":"c7fa92e5954165fe","toSide":"top"},
+		{"id":"5e903cb7d519736d","fromNode":"9861c798fd9951d6","fromSide":"bottom","toNode":"7639bd227b6300d9","toSide":"top"},
+		{"id":"09203d32b4199adb","fromNode":"19375b3722ec0d81","fromSide":"bottom","toNode":"9861c798fd9951d6","toSide":"top"},
+		{"id":"5e8645fd25620b7e","fromNode":"50c5ebb799dd290f","fromSide":"right","toNode":"eb9a9877e81f6b8c","toSide":"left"},
+		{"id":"ea48c8685472e26a","fromNode":"c4c65fe1b80a8344","fromSide":"bottom","toNode":"50c5ebb799dd290f","toSide":"top"},
+		{"id":"e75671ea85c647b9","fromNode":"c3386c48dbe7488f","fromSide":"right","toNode":"c3561ada5335f248","toSide":"left"},
+		{"id":"f041081a3dd0df7c","fromNode":"c4c65fe1b80a8344","fromSide":"right","toNode":"c3386c48dbe7488f","toSide":"left"},
+		{"id":"e97fc354ec16209c","fromNode":"1c6782c666929ce9","fromSide":"bottom","toNode":"c4c65fe1b80a8344","toSide":"top"},
+		{"id":"cb0bc1705e301034","fromNode":"895005faad4f180a","fromSide":"right","toNode":"a5ba44470442ef7a","toSide":"left"},
+		{"id":"2fd034fcfa6c659e","fromNode":"a5ba44470442ef7a","fromSide":"right","toNode":"1b430b5ede6841c9","toSide":"left"},
+		{"id":"96d45d3f206632f6","fromNode":"d8f55e6a42a4c970","fromSide":"right","toNode":"5ac393457ae5f239","toSide":"left"},
+		{"id":"406e1c75b041d08b","fromNode":"5ac393457ae5f239","fromSide":"right","toNode":"fff7856434691e17","toSide":"left"},
+		{"id":"db67bbbdcf2c0786","fromNode":"895005faad4f180a","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"}
+	]
+}

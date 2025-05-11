@@ -58,3 +58,13 @@ $$
 \underline{~a^3-b^3~} = \underline{~(a-b)(a^2+ab+b^2)~}
 \end{align*}
 $$
+#### Advanced Trigonometry formula:
+$$
+\begin{align*}
+\int \underline{~\tan^2 x~} dx 
+= \int \underline{~\sec^2 x - 1~} dx 
+= \underline{~\tan x - x~} +Cst.\\
+\int \underline{~\cot^2 x~} dx 
+= \underline{~\LaTeX~} +Cst.
+\end{align*}
+$$
