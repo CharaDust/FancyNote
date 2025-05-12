@@ -14,9 +14,18 @@
 		{"id":"a5ba44470442ef7a","x":1200,"y":-760,"width":250,"height":100,"type":"text","text":"弦三角函数次数极高\n\n$\\sin^7x~~\\cos^8x$"},
 		{"id":"1b430b5ede6841c9","x":1560,"y":-760,"width":250,"height":120,"type":"text","text":"#### 华里士公式\n\n$\\LaTeX$"},
 		{"id":"fc4323f122c8e1bc","x":460,"y":-1020,"width":250,"height":60,"type":"text","text":"求定积分"},
-		{"id":"5ac393457ae5f239","x":1640,"y":-900,"width":250,"height":60,"type":"text","text":"尝试方法"},
-		{"id":"fff7856434691e17","x":1960,"y":-980,"width":250,"height":140,"type":"text","text":"#### 区间再现公式\n\n$\\LaTeX$"},
-		{"id":"d8f55e6a42a4c970","x":1300,"y":-900,"width":250,"height":60,"type":"text","text":"无从下手？"}
+		{"id":"d8f55e6a42a4c970","x":1300,"y":-900,"width":250,"height":60,"type":"text","text":"无从下手？"},
+		{"id":"90617352e933e326","x":460,"y":-760,"width":250,"height":60,"type":"text","text":"寻找原函数"},
+		{"id":"fff7856434691e17","x":1740,"y":-980,"width":250,"height":140,"type":"text","text":"#### 区间再现公式\n\n$\\LaTeX$"},
+		{"id":"7d4806bc891db1f3","x":-80,"y":-900,"width":250,"height":120,"type":"text","text":"#### 公式卡片\n\n$\\LaTeX$"},
+		{"id":"79ab30b02046d45e","x":840,"y":-1640,"width":250,"height":60,"type":"text","text":"极坐标曲线"},
+		{"id":"7b53576a681621a8","x":520,"y":-1640,"width":250,"height":60,"type":"text","text":"面积问题"},
+		{"id":"12da1de738808db9","x":1180,"y":-1640,"width":260,"height":120,"type":"text","text":"#### 极坐标曲边扇形面积\n\n$\\LaTeX$ p119"},
+		{"id":"9ec32310bdca96ee","x":1720,"y":-1180,"width":250,"height":120,"type":"text","text":"#### 对称区间命题\n\n$\\LaTeX$ p115"},
+		{"id":"9016298f0e01b223","x":1360,"y":-1340,"width":140,"height":60,"type":"text","text":"偶倍奇零"},
+		{"id":"fa9518694049349d","x":1360,"y":-1240,"width":240,"height":120,"type":"text","text":"自然对数与1的线性分式\n\n$\\frac{1}{1+e^x}~~\\frac{1}{1+e^{\\frac1x}}~~\\frac{e^x}{1+e^x}~~\\frac{e^{kx}\\pm 1}{e^{kx}\\mp 1}$"},
+		{"id":"c34af0ad4aec9eb9","x":940,"y":-1080,"width":250,"height":100,"type":"text","text":"对称上下限区间\n\n$\\int_{-a}^{a} f(x)$"},
+		{"id":"8cc45d08c97fbf8d","x":1300,"y":-1080,"width":320,"height":100,"type":"text","text":"反正切函数与自然对数的复合函数\n\n$\\arctan e^x$"}
 	],
 	"edges":[
 		{"id":"c27de582ff4834e0","fromNode":"7639bd227b6300d9","fromSide":"bottom","toNode":"c7fa92e5954165fe","toSide":"top"},
@@ -29,8 +38,19 @@
 		{"id":"e97fc354ec16209c","fromNode":"1c6782c666929ce9","fromSide":"bottom","toNode":"c4c65fe1b80a8344","toSide":"top"},
 		{"id":"cb0bc1705e301034","fromNode":"895005faad4f180a","fromSide":"right","toNode":"a5ba44470442ef7a","toSide":"left"},
 		{"id":"2fd034fcfa6c659e","fromNode":"a5ba44470442ef7a","fromSide":"right","toNode":"1b430b5ede6841c9","toSide":"left"},
-		{"id":"96d45d3f206632f6","fromNode":"d8f55e6a42a4c970","fromSide":"right","toNode":"5ac393457ae5f239","toSide":"left"},
-		{"id":"406e1c75b041d08b","fromNode":"5ac393457ae5f239","fromSide":"right","toNode":"fff7856434691e17","toSide":"left"},
-		{"id":"db67bbbdcf2c0786","fromNode":"895005faad4f180a","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"}
+		{"id":"db67bbbdcf2c0786","fromNode":"895005faad4f180a","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"},
+		{"id":"b5d2229f7b35f02c","fromNode":"d8f55e6a42a4c970","fromSide":"right","toNode":"fff7856434691e17","toSide":"left","label":"尝试"},
+		{"id":"4500424eee1253dc","fromNode":"fc4323f122c8e1bc","fromSide":"right","toNode":"895005faad4f180a","toSide":"left"},
+		{"id":"7472941ac2e06bb0","fromNode":"c34af0ad4aec9eb9","fromSide":"right","toNode":"9016298f0e01b223","toSide":"left"},
+		{"id":"b50523aed60b1c64","fromNode":"c34af0ad4aec9eb9","fromSide":"right","toNode":"fa9518694049349d","toSide":"left"},
+		{"id":"ee9da7e65aa33a14","fromNode":"fc4323f122c8e1bc","fromSide":"right","toNode":"c34af0ad4aec9eb9","toSide":"left"},
+		{"id":"a66e4b38a78b511c","fromNode":"c34af0ad4aec9eb9","fromSide":"right","toNode":"8cc45d08c97fbf8d","toSide":"left"},
+		{"id":"f1d4d5f20241a333","fromNode":"fc4323f122c8e1bc","fromSide":"bottom","toNode":"90617352e933e326","toSide":"top","label":"常规方法"},
+		{"id":"9f474b934f9644b9","fromNode":"90617352e933e326","fromSide":"bottom","toNode":"1c6782c666929ce9","toSide":"top"},
+		{"id":"f120765af8847ef7","fromNode":"8cc45d08c97fbf8d","fromSide":"right","toNode":"9ec32310bdca96ee","toSide":"left"},
+		{"id":"a660e39ee16b0b65","fromNode":"fa9518694049349d","fromSide":"right","toNode":"9ec32310bdca96ee","toSide":"left"},
+		{"id":"71aa1f7ff9411ee9","fromNode":"7b53576a681621a8","fromSide":"right","toNode":"79ab30b02046d45e","toSide":"left"},
+		{"id":"0d004050d50ab963","fromNode":"79ab30b02046d45e","fromSide":"right","toNode":"12da1de738808db9","toSide":"left"},
+		{"id":"b23a558256152c1d","fromNode":"12da1de738808db9","fromSide":"bottom","toNode":"c34af0ad4aec9eb9","toSide":"left"}
 	]
 }

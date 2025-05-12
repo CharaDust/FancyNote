@@ -1,19 +1,19 @@
 # FancyNote(繁星笔记)
-Chara Dust 的个人公开笔记和知识库
+Chara Dust 的个人公开笔记和知识库  
 建议下载所有文件并使用Obsidian笔记软件打开，如果想获取后续更新，请使用Git链接订阅这个仓库
 
 # 关于我自己
-（编辑于2025-05-05）
-我的公开名称是 Richard Ki ，真实姓名读音和公开名称较为相似。21世纪00年代工科男生，计算机既是我的爱好，也是我的专业。目前正致力于为开源社区做出“精神贡献”。
+（编辑于2025-05-05）  
+我的公开名称是 Richard Ki ，真实姓名读音和公开名称较为相似。21世纪00年代工科男生，计算机既是我的爱好，也是我的专业。目前正致力于为开源社区做出“精神贡献”。  
 最喜欢玩Minecraft，并且正在创作基于此游戏的个人衍生作品以及部署游戏服务器。关于其他正在玩的游戏可以参阅[游戏生涯](log/lifeStory/game/-list.md)文章。
 
 
 ## 最近更新
-[高等数学每周测试清单](./lib/mathematicsAdvanced/org/wendu/test/-list.md)
-[url.文都考研数学录播课——湘工程进度](https://pan.baidu.com/s/14VylZHRlohAtcLewGR1jug?pwd=77ji)
-[url.文都考研英语录播课——湘工程进度](https://pan.baidu.com/s/14m9Uny-li9lnu9WmUhPPkw?pwd=i3q7)
-[url.文都考研数学录播课——湘大进度]()
-[高等数学公式默写清单](./lib/mathematicsAdvanced/formulaDicNRec/-list.md)
+[高等数学每周测试清单](./lib/mathematicsAdvanced/org/wendu/test/-list.md)  
+[url.文都考研数学录播课——湘工程进度](https://pan.baidu.com/s/14VylZHRlohAtcLewGR1jug?pwd=77ji)  
+[url.文都考研英语录播课——湘工程进度](https://pan.baidu.com/s/14m9Uny-li9lnu9WmUhPPkw?pwd=i3q7)  
+[url.文都考研数学录播课——湘大进度](https://pan.baidu.com/s/1ZnHfaFHVUyNsymuKvKzBNA?pwd=ava3)  
+[高等数学公式默写清单](./lib/mathematicsAdvanced/formulaDicNRec/-list.md)  
 
 
 ## 最新进度
@@ -40,6 +40,6 @@ Chara Dust 的个人公开笔记和知识库
 | 301-《一千两百题》  |          |      |      |        |          |
 | 408-私人面授课程进度 |          |      |      |        |          |
 
-贴士：
+贴士：  
 1: 某些项目进度无法得知最大值，或任务无法量化
 
