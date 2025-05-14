@@ -71,9 +71,9 @@
               "state": {
                 "file": "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
                 "viewState": {
-                  "x": 945,
-                  "y": -780,
-                  "zoom": 0
+                  "x": 1379.872737986618,
+                  "y": 1540.7378155413628,
+                  "zoom": -2.6219270858999897
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,17 +240,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94dc83a797ea214c",
+  "active": "adfa6a68ba206472",
   "lastOpenFiles": [
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
     "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
+    "README.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/mathematicsAdvanced/org/canvas",
-    "README.md",
     "lib/mathematicsAdvanced/formulaDicNRec/-list.md",
     "log/lifeStory/game/-list.md",
     "log/lifeStory/rule/haloEffect.md",
