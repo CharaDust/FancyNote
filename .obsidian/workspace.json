@@ -67,17 +67,14 @@
             "id": "adfa6a68ba206472",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
-                "viewState": {
-                  "x": 1379.872737986618,
-                  "y": 1540.7378155413628,
-                  "zoom": -2.6219270858999897
-                }
+                "file": "lib/englishPostgraduate/org/wendu/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "草稿"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -90,6 +87,23 @@
               },
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "4708e39d126ffb33",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
+                "viewState": {
+                  "x": 1078.74609375,
+                  "y": 2024.56640625,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "草稿"
             }
           }
         ],
@@ -242,18 +256,22 @@
   },
   "active": "adfa6a68ba206472",
   "lastOpenFiles": [
+    "未命名.md",
+    "lib/englishPostgraduate/org/wendu/未命名.md",
+    "lib/englishPostgraduate/org/wendu/classB08 - words n' phase.md",
+    "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet/Adverbial Adjunct (grammar).md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
+    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
+    "README.md",
+    "log/lifeStory/game/-list.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "lib/mathematicsAdvanced/org/canvas/草稿.canvas",
-    "README.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/mathematicsAdvanced/org/canvas",
     "lib/mathematicsAdvanced/formulaDicNRec/-list.md",
-    "log/lifeStory/game/-list.md",
     "log/lifeStory/rule/haloEffect.md",
     "log/lifeStory/-list.md",
     "log/2025-03-19.md",
@@ -270,10 +288,6 @@
     "idea/创新创业计划书.md",
     "idea/米家游戏代行托管计划.md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet A/Adverbial Adjunct (grammar) (Sheet A).md",
-    "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet/Adverbial Adjunct (grammar).md",
-    "lib/mathematicsAdvanced/org/wendu/test/hours01.md",
-    "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet C/Adverbial Adjunct (grammar) (Sheet C).md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Equivalent Infinitesimal (Sheet - A).md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet C",
     "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet B",
     "Adverbial Adjunct (grammar) (Sheet A).pdf",

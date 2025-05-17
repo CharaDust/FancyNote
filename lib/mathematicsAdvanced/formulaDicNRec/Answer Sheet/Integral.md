@@ -28,9 +28,9 @@ $$
 \int \underline{~\tan x~} dx = \underline{~-\ln|\cos x|~} +Cst.&&
 \int \underline{~\cot x~} dx = \underline{~\ln|\sin x|~} +Cst.\\\\
 \int \underline{~\sec x~} dx = \underline{~\ln|\sec x+\tan x|~} +Cst.&&
-\int \underline{~\csc x~} dx = \underline{~\ln|\csc x+\cot x|~} +Cst.\\\\
+\int \underline{~\csc x~} dx = \underline{~\ln|\csc x-\cot x|~} +Cst.\\\\
 \int \underline{~\sec x\tan x~} dx = \underline{~\sec x~} +Cst.&&
-\int \underline{~\csc x\cot x~} dx = \underline{~-csc x~} +Cst.\\\\
+\int \underline{~\csc x\cot x~} dx = \underline{~-\csc x~} +Cst.\\\\
 \int \underline{~\sec^2 x~} dx = \underline{~\tan x~} +Cst.&&
 \int \underline{~\csc^2 x~} dx = \underline{~-\cot x~} +Cst.\\\\\\\\
 \end{align*}
@@ -43,7 +43,7 @@ $$
 \int \underline{~\frac{1}{~a^2-x^2~}~} dx 
 = \underline{~\frac{1}{~2a~}\ln|\frac{~a+x~}{~a-x~}|~} +Cst.\\\\
 \int \underline{~\frac{1}{~\sqrt{a^2-x^2}~}~} dx 
-= \underline{~\frac{1}{~a~}\arctan \frac{~x~}{~a~}~} +Cst.&&
+= \underline{~\arcsin \frac{~x~}{~a~}~} +Cst.&&
 \\\\
 \int \underline{~\frac{1}{~\sqrt{x^2-a^2}~}~} dx 
 = \underline{~\ln|x+\sqrt{x^2-a^2}|~} +Cst.&&
@@ -61,10 +61,19 @@ $$
 #### Advanced Trigonometry formula:
 $$
 \begin{align*}
-\int \underline{~\tan^2 x~} dx 
+\int \underline{~\tan^2 x~} dx &&
 = \int \underline{~\sec^2 x - 1~} dx 
 = \underline{~\tan x - x~} +Cst.\\
-\int \underline{~\cot^2 x~} dx 
-= \underline{~\LaTeX~} +Cst.
+&&
+= \int \underline{~\frac{\sin^2x}{\cos^2x}~} dx
+= \int \underline{~\frac{1-\cos^2x}{\cos^2x}~} dx 
+= \LaTeX \\
+\int \underline{~\cot^2 x~} dx &&
+= \int \underline{~\csc^2 x - 1~} dx 
+= \underline{~-\cot x - x~} +Cst.\\
+&&
+= \int \underline{~\frac{\cos^2x}{\sin^2x}~} dx
+= \int \underline{~\frac{\cos^2x}{1-\cos^2x}~} dx 
+= \LaTeX \\
 \end{align*}
 $$
