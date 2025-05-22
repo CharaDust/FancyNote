@@ -9,6 +9,7 @@ Chara Dust 的个人公开笔记和知识库
 
 
 ## 最近更新
+[英语每周测试清单](./lib/englishPostgraduate/org/wendu/test/-list.md)  
 [高等数学每周测试清单](./lib/mathematicsAdvanced/org/wendu/test/-list.md)  
 [url.文都考研数学录播课——湘工程进度](https://pan.baidu.com/s/14VylZHRlohAtcLewGR1jug?pwd=77ji)  
 [url.文都考研英语录播课——湘工程进度](https://pan.baidu.com/s/14m9Uny-li9lnu9WmUhPPkw?pwd=i3q7)  
