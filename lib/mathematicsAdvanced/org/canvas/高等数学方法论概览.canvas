@@ -130,7 +130,9 @@
 		{"id":"13e908d60e3a5710","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"0b066376e67a9eb5","toSide":"left"},
 		{"id":"73d760c67c7fd8d8","fromNode":"57350f89153b3280","fromSide":"right","toNode":"b48e87984947af0b","toSide":"left"},
 		{"id":"e1881297c2d10947","fromNode":"a8f9b8fbbf3ec0f6","fromSide":"right","toNode":"13409c73bf877455","toSide":"left","label":"考虑"},
-		{"id":"7a9a35275a741e1b","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"a8f9b8fbbf3ec0f6","toSide":"left"}
+		{"id":"7a9a35275a741e1b","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"a8f9b8fbbf3ec0f6","toSide":"left"},
+		{"id":"16a56cb118735eef","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"13a5950a4b74388a","toSide":"left"},
+		{"id":"bbd76157f83e877a","fromNode":"13a5950a4b74388a","fromSide":"right","toNode":"02452d5aa3ab8649","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -940,14 +942,14 @@
 		{"id":"fc99ee60bb7e0225","type":"text","text":"#### 无穷限 · p积分\n\n$$\\int_{1}^{+\\infty}\\frac{1}{x^p}~dx$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-4240,"y":-40,"width":260,"height":200},
 		{"id":"4349d46ea90ae11a","type":"text","text":"#### 瑕 · p积分\n\n$$\\int_{0}^{1}\\frac{1}{x^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-4240,"y":220,"width":260,"height":200},
 		{"id":"3be87914a1cc66f1","type":"text","text":"#### 瑕 · p积分推论\n\n$$\\int_{a}^{b}\\frac{1}{(x-a)^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-3820,"y":220,"width":260,"height":200},
-		{"id":"57ae5e3f586708e6","x":-3660,"y":560,"width":240,"height":60,"type":"text","text":"被积函数不可积"},
+		{"id":"57ae5e3f586708e6","type":"text","text":"被积函数不可积","x":-3660,"y":560,"width":240,"height":60},
 		{"id":"a08b44ae5e62edec","type":"text","text":"#### 无穷限 · p积分推论\n\n$$\\int_{a}^{+\\infty}\\frac{1}{x\\ln^px}~dx~~(a>1)$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-3820,"y":-40,"width":260,"height":200},
-		{"id":"3cb6eb58685d4df7","x":-3260,"y":-260,"width":260,"height":140,"type":"text","text":"#### 等价判别法\n\n$\\LaTeX$"},
-		{"id":"253b831475b6982a","x":-3660,"y":840,"width":240,"height":60,"type":"text","text":"被积函数可积"},
-		{"id":"314d9fccdfc5b74f","x":-3300,"y":840,"width":240,"height":60,"type":"text","text":"求积分并判断存在性"},
-		{"id":"4f483f1a615a6bea","x":-2860,"y":760,"width":240,"height":60,"type":"text","text":"该反常积分发散"},
-		{"id":"6a405cb2e3fb7bfc","x":-2860,"y":900,"width":240,"height":60,"type":"text","text":"该反常积分收敛"},
-		{"id":"a064cdc512938fa8","x":-3260,"y":520,"width":260,"height":140,"type":"text","text":"#### 比较判别法\n\n$\\LaTeX$"},
+		{"id":"3cb6eb58685d4df7","type":"text","text":"#### 等价判别法\n\n$\\LaTeX$","x":-3260,"y":-260,"width":260,"height":140},
+		{"id":"253b831475b6982a","type":"text","text":"被积函数可积","x":-3660,"y":840,"width":240,"height":60},
+		{"id":"314d9fccdfc5b74f","type":"text","text":"求积分并判断存在性","x":-3300,"y":840,"width":240,"height":60},
+		{"id":"4f483f1a615a6bea","type":"text","text":"该反常积分发散","x":-2860,"y":760,"width":240,"height":60},
+		{"id":"6a405cb2e3fb7bfc","type":"text","text":"该反常积分收敛","x":-2860,"y":900,"width":240,"height":60},
+		{"id":"a064cdc512938fa8","type":"text","text":"#### 比较判别法\n\n$\\LaTeX$","x":-3260,"y":520,"width":260,"height":140},
 		{
 			"id":"8220d9222f19766b",
 			"styleAttributes":{},
@@ -1008,7 +1010,7 @@
 			"width":250,
 			"height":60
 		},
-		{"id":"1576fe35545656cb","x":1520,"y":2740,"width":240,"height":100,"type":"text","text":"设除法导数猜f(x)\n\nWenDu.4.2.1.6"},
+		{"id":"1576fe35545656cb","type":"text","text":"设除法导数猜f(x)\n\nWenDu.4.2.1.6","x":1520,"y":2740,"width":240,"height":100},
 		{
 			"id":"a7a7fdd63a44ca27",
 			"styleAttributes":{},
@@ -1029,11 +1031,12 @@
 			"width":260,
 			"height":100
 		},
-		{"id":"dbc1508a731a9276","x":1160,"y":2740,"width":260,"height":100,"type":"text","text":"分母正好是平方式\n\n$\\frac{f(x)}{(g(x))^2}$"},
-		{"id":"0b066376e67a9eb5","x":1160,"y":2880,"width":260,"height":100,"type":"text","text":"分母次数高于分子一次\n\n$\\frac{f(x^2)}{f(x^3)}$"},
-		{"id":"57350f89153b3280","x":1520,"y":2880,"width":260,"height":100,"type":"text","text":"分子是分母的导数\n\n$\\frac{f^\\prime(x)}{f(x)}$"},
-		{"id":"b48e87984947af0b","x":1900,"y":2860,"width":320,"height":140,"type":"text","text":"#### 复合自然对数函数求导公式\n\n$$\\int{\\frac{f^\\prime(x)}{f(x)}}~dx = \\ln|f(x)|+Cst.$$"},
-		{"id":"a8f9b8fbbf3ec0f6","x":1160,"y":3020,"width":260,"height":100,"color":"6","type":"text","text":"分母是平方和\n\n$\\frac{f(x)}{\\alpha^2(x)+\\beta^2(x)}$"},
-		{"id":"13409c73bf877455","x":1560,"y":3040,"width":240,"height":60,"color":"6","type":"text","text":"反正切函数的复合函数"}
+		{"id":"dbc1508a731a9276","type":"text","text":"分母正好是平方式\n\n$\\frac{f(x)}{(g(x))^2}$","x":1160,"y":2740,"width":260,"height":100},
+		{"id":"0b066376e67a9eb5","type":"text","text":"分母次数高于分子一次\n\n$\\frac{f(x^2)}{f(x^3)}$","x":1160,"y":2880,"width":260,"height":100},
+		{"id":"57350f89153b3280","type":"text","text":"分子是分母的导数\n\n$\\frac{f^\\prime(x)}{f(x)}$","x":1520,"y":2880,"width":260,"height":100},
+		{"id":"b48e87984947af0b","type":"text","text":"#### 复合自然对数函数求导公式\n\n$$\\int{\\frac{f^\\prime(x)}{f(x)}}~dx = \\ln|f(x)|+Cst.$$","x":1900,"y":2860,"width":320,"height":140},
+		{"id":"a8f9b8fbbf3ec0f6","type":"text","text":"分母是平方和\n\n$\\frac{f(x)}{\\alpha^2(x)+\\beta^2(x)}$","x":1160,"y":3020,"width":260,"height":100,"color":"6"},
+		{"id":"13409c73bf877455","type":"text","text":"反正切函数的复合函数","x":1560,"y":3040,"width":240,"height":60,"color":"6"},
+		{"id":"13a5950a4b74388a","x":1160,"y":2300,"width":200,"height":120,"color":"6","type":"text","text":"分子存在对数函数\n\n$\\frac{\\ln f(x)}{g(x)}$"}
 	]
 }
