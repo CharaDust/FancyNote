@@ -83,8 +83,8 @@
               "state": {
                 "file": "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
                 "viewState": {
-                  "x": 1594.1549436616642,
-                  "y": 348.8281934359948,
+                  "x": -1233.8365575097214,
+                  "y": 1774.6890763433446,
                   "zoom": -0.5
                 }
               },
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -268,10 +268,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "540ffcac9afdbf2a",
+  "active": "761f63634930dade",
   "lastOpenFiles": [
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "idea/101draft.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
     "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
     "README.md",
