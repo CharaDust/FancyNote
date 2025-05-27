@@ -151,7 +151,9 @@
 		{"id":"aa98c800fa14ea0e","fromNode":"add3176892bac22f","fromSide":"right","toNode":"a822c89f3976784f","toSide":"left"},
 		{"id":"dad8769eb0760b3a","fromNode":"3cea57acc34e9692","fromSide":"right","toNode":"a822c89f3976784f","toSide":"left"},
 		{"id":"f3ef99c9b5cab1a0","fromNode":"2b9b76269de1dc9b","fromSide":"right","toNode":"3cea57acc34e9692","toSide":"left"},
-		{"id":"a342a41d9302ecca","fromNode":"a6bcf25c5ab68c9d","fromSide":"right","toNode":"cc336c14378ec67b","toSide":"left"}
+		{"id":"a342a41d9302ecca","fromNode":"a6bcf25c5ab68c9d","fromSide":"right","toNode":"cc336c14378ec67b","toSide":"left"},
+		{"id":"dc593670072dd4f2","fromNode":"4b0fd5111d4af51a","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"},
+		{"id":"6d0918e2b03948b1","fromNode":"d78d4a73d00565da","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -1075,6 +1077,7 @@
 		{"id":"5d5d236238404cdf","x":-1920,"y":2580,"width":240,"height":100,"type":"text","text":"系数为非常数"},
 		{"id":"d78d4a73d00565da","x":-1920,"y":2700,"width":240,"height":100,"type":"text","text":"齐次式"},
 		{"id":"28322a7605c20c5e","x":-1920,"y":2820,"width":240,"height":100,"type":"text","text":"非齐次式"},
-		{"id":"cc336c14378ec67b","x":-1140,"y":1340,"width":320,"height":140,"type":"text","text":"#### 一阶线性微分方程通解公式\n\n$$y=e^{-\\int{P(x)}dx}(\\int {Q(x)e^{\\int{P(x)}dx}}dx+Cst.)$$"}
+		{"id":"cc336c14378ec67b","x":-1140,"y":1340,"width":320,"height":140,"type":"text","text":"#### 一阶线性微分方程通解公式\n\n$$y=e^{-\\int{P(x)}dx}(\\int {Q(x)e^{\\int{P(x)}dx}}dx+Cst.)$$"},
+		{"id":"5e47a14d60852113","x":-1460,"y":2600,"width":240,"height":100,"type":"text","text":"特征根解法"}
 	]
 }
