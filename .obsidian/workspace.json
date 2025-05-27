@@ -76,23 +76,6 @@
             }
           },
           {
-            "id": "761f63634930dade",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
-                "viewState": {
-                  "x": 1512.1708637339707,
-                  "y": 2690.8685502028816,
-                  "zoom": -0.5
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "高等数学方法论概览"
-            }
-          },
-          {
             "id": "9f7847b9efe7fd8d",
             "type": "leaf",
             "state": {
@@ -119,9 +102,26 @@
               "icon": "lucide-file",
               "title": "101draft"
             }
+          },
+          {
+            "id": "694eb71e167f0760",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
+                "viewState": {
+                  "x": 1455,
+                  "y": 2624,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "高等数学方法论概览"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -268,14 +268,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "761f63634930dade",
+  "active": "694eb71e167f0760",
   "lastOpenFiles": [
+    "README.md",
+    "idea/101draft.md",
+    "bin/page.md",
+    "bin/chara-note.md",
+    "idea/预定拍摄计划明细.md",
+    "idea/待整理的数学公式.md",
+    "idea/关于我自己.md",
+    "idea/创新创业计划书.md",
+    "idea/实用小项目/文件分类器 - pixiv/PidOrganizer.py",
+    "idea/实用小项目/文件分类器 - pixiv/PidOrganizer_f02.py",
+    "idea/实用小项目/文件分类器 - pixiv",
+    "idea/实用小项目",
+    "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
-    "lib/mathematicsAdvanced/org/canvas/高等数学方法论概览.canvas",
-    "idea/101draft.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "README.md",
     "lib/mathematicsAdvanced/org/wendu/test/-list.md",
     "lib/computerDataStructNAlgorithms/org/WangDao/resLnk.md",
     "lib/englishPostgraduate/org/wendu/test/-list.md",
@@ -292,21 +302,11 @@
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method I.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table.md",
     "lib/mathematicsAdvanced/org/canvas",
-    "lib/mathematicsAdvanced/formulaDicNRec/-list.md",
-    "log/lifeStory/rule/haloEffect.md",
-    "log/lifeStory/-list.md",
-    "log/2025-03-19.md",
     "log/lifeStory/rule",
-    "log/2025-05-03.md",
     "log/lifeStory/game",
     "log/lifeStory",
     "lib/gameMinecraft",
-    "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet C",
-    "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet B",
-    "Adverbial Adjunct (grammar) (Sheet A).pdf",
-    "lib/englishPostgraduate/org/wendu/DicNRec/Blank Sheet A",
     "未命名.canvas"
   ]
 }
