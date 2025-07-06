@@ -8,7 +8,7 @@
 		{"id":"f041081a3dd0df7c","fromNode":"c4c65fe1b80a8344","fromSide":"right","toNode":"c3386c48dbe7488f","toSide":"left"},
 		{"id":"e97fc354ec16209c","fromNode":"1c6782c666929ce9","fromSide":"bottom","toNode":"c4c65fe1b80a8344","toSide":"left"},
 		{"id":"cb0bc1705e301034","fromNode":"895005faad4f180a","fromSide":"right","toNode":"a5ba44470442ef7a","toSide":"left"},
-		{"id":"2fd034fcfa6c659e","fromNode":"a5ba44470442ef7a","fromSide":"right","toNode":"1b430b5ede6841c9","toSide":"left"},
+		{"id":"2fd034fcfa6c659e","fromNode":"a5ba44470442ef7a","fromSide":"right","toNode":"5d2d3f23369b2a1d","toSide":"left"},
 		{"id":"db67bbbdcf2c0786","fromNode":"895005faad4f180a","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"},
 		{"id":"b5d2229f7b35f02c","fromNode":"d8f55e6a42a4c970","fromSide":"right","toNode":"fff7856434691e17","toSide":"left","label":"尝试"},
 		{"id":"4500424eee1253dc","fromNode":"fc4323f122c8e1bc","fromSide":"right","toNode":"895005faad4f180a","toSide":"left"},
@@ -153,7 +153,8 @@
 		{"id":"f3ef99c9b5cab1a0","fromNode":"2b9b76269de1dc9b","fromSide":"right","toNode":"3cea57acc34e9692","toSide":"left"},
 		{"id":"a342a41d9302ecca","fromNode":"a6bcf25c5ab68c9d","fromSide":"right","toNode":"cc336c14378ec67b","toSide":"left"},
 		{"id":"dc593670072dd4f2","fromNode":"4b0fd5111d4af51a","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"},
-		{"id":"6d0918e2b03948b1","fromNode":"d78d4a73d00565da","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"}
+		{"id":"6d0918e2b03948b1","fromNode":"d78d4a73d00565da","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"},
+		{"id":"f5666ea4424363c9","fromNode":"5d2d3f23369b2a1d","fromSide":"right","toNode":"1b430b5ede6841c9","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -223,7 +224,7 @@
 			"type":"text",
 			"x":1900,
 			"y":-1420,
-			"width":250,
+			"width":240,
 			"height":60
 		},
 		{
@@ -233,18 +234,8 @@
 			"type":"text",
 			"x":1800,
 			"y":-1280,
-			"width":250,
+			"width":240,
 			"height":100
-		},
-		{
-			"id":"1b430b5ede6841c9",
-			"styleAttributes":{},
-			"text":"#### 华里士公式\n\n$\\LaTeX$",
-			"type":"text",
-			"x":2160,
-			"y":-1280,
-			"width":250,
-			"height":120
 		},
 		{
 			"id":"c34af0ad4aec9eb9",
@@ -253,7 +244,7 @@
 			"type":"text",
 			"x":1520,
 			"y":-1660,
-			"width":250,
+			"width":240,
 			"height":100
 		},
 		{
@@ -263,7 +254,7 @@
 			"type":"text",
 			"x":1440,
 			"y":-1280,
-			"width":250,
+			"width":240,
 			"height":100
 		},
 		{
@@ -289,7 +280,7 @@
 		{
 			"id":"12da1de738808db9",
 			"styleAttributes":{},
-			"text":"#### 极坐标曲边扇形面积\n\n$\\LaTeX$ p119",
+			"text":"#### 极坐标曲边扇形面积\n\n$$S=\\frac12\\int_\\alpha^\\beta{\\gamma^2(\\theta)}~d\\theta$$",
 			"type":"text",
 			"x":1300,
 			"y":-2000,
@@ -1062,22 +1053,34 @@
 		{"id":"add3176892bac22f","type":"text","text":"方程的阶数为2\n\n$f(x,y,y^\\prime,y^{\\prime \\prime})=0$","x":-2660,"y":2300,"width":240,"height":100},
 		{"id":"2b9b76269de1dc9b","type":"text","text":"求微分方程","x":-3020,"y":2140,"width":240,"height":60},
 		{"id":"b4552d888772ca65","type":"text","text":"方程的阶数为1\n\n$f(x,y,y^\\prime)=0$","x":-2120,"y":2000,"width":240,"height":100},
-		{"id":"a6bcf25c5ab68c9d","x":-1600,"y":1420,"width":250,"height":100,"type":"text","text":"线性微分方程"},
-		{"id":"075d0b9f1cad3948","x":-1500,"y":1720,"width":240,"height":100,"type":"text","text":""},
-		{"id":"27215de2efaa8455","x":-1500,"y":1860,"width":240,"height":100,"type":"text","text":""},
-		{"id":"ff7a2758b24ae0fe","x":-1500,"y":2000,"width":240,"height":100,"type":"text","text":"柏努力方程"},
-		{"id":"9ecf06009cbadd21","x":-1500,"y":2140,"width":240,"height":100,"type":"text","text":"全微分方程"},
-		{"id":"4729871ee7ed4cff","x":-1140,"y":1520,"width":240,"height":100,"type":"text","text":"变量可分离"},
+		{"id":"a6bcf25c5ab68c9d","type":"text","text":"线性微分方程","x":-1600,"y":1420,"width":250,"height":100},
+		{"id":"075d0b9f1cad3948","type":"text","text":"","x":-1500,"y":1720,"width":240,"height":100},
+		{"id":"27215de2efaa8455","type":"text","text":"","x":-1500,"y":1860,"width":240,"height":100},
+		{"id":"ff7a2758b24ae0fe","type":"text","text":"柏努力方程","x":-1500,"y":2000,"width":240,"height":100},
+		{"id":"9ecf06009cbadd21","type":"text","text":"全微分方程","x":-1500,"y":2140,"width":240,"height":100},
+		{"id":"4729871ee7ed4cff","type":"text","text":"变量可分离","x":-1140,"y":1520,"width":240,"height":100},
 		{"id":"cbbceeab24f748b2","type":"text","text":"降阶","x":-2000,"y":2320,"width":240,"height":60},
 		{"id":"7e77256e23286595","type":"text","text":"方程不显含y\n\n$f(x,y^\\prime,y^{\\prime \\prime})=0$","x":-2320,"y":2240,"width":240,"height":100},
 		{"id":"d30b0abe8d67c3d8","type":"text","text":"方程不显含x\n\n$f(y,y^\\prime,y^{\\prime \\prime})=0$","x":-2320,"y":2360,"width":240,"height":100},
-		{"id":"a822c89f3976784f","x":-2320,"y":2640,"width":240,"height":100,"type":"text","text":"线性微分方程"},
-		{"id":"3cea57acc34e9692","x":-2660,"y":2640,"width":240,"height":100,"type":"text","text":"方程的阶数为3及以上\n\n$f(x,y,y^\\prime,y^{\\prime \\prime},y^{\\prime \\prime \\prime}...)=0$"},
-		{"id":"4b0fd5111d4af51a","x":-1920,"y":2460,"width":240,"height":100,"type":"text","text":"系数为常数"},
-		{"id":"5d5d236238404cdf","x":-1920,"y":2580,"width":240,"height":100,"type":"text","text":"系数为非常数"},
-		{"id":"d78d4a73d00565da","x":-1920,"y":2700,"width":240,"height":100,"type":"text","text":"齐次式"},
-		{"id":"28322a7605c20c5e","x":-1920,"y":2820,"width":240,"height":100,"type":"text","text":"非齐次式"},
-		{"id":"cc336c14378ec67b","x":-1140,"y":1340,"width":320,"height":140,"type":"text","text":"#### 一阶线性微分方程通解公式\n\n$$y=e^{-\\int{P(x)}dx}(\\int {Q(x)e^{\\int{P(x)}dx}}dx+Cst.)$$"},
-		{"id":"5e47a14d60852113","x":-1460,"y":2600,"width":240,"height":100,"type":"text","text":"特征根解法"}
+		{"id":"a822c89f3976784f","type":"text","text":"线性微分方程","x":-2320,"y":2640,"width":240,"height":100},
+		{"id":"3cea57acc34e9692","type":"text","text":"方程的阶数为3及以上\n\n$f(x,y,y^\\prime,y^{\\prime \\prime},y^{\\prime \\prime \\prime}...)=0$","x":-2660,"y":2640,"width":240,"height":100},
+		{"id":"4b0fd5111d4af51a","type":"text","text":"系数为常数","x":-1920,"y":2460,"width":240,"height":100},
+		{"id":"5d5d236238404cdf","type":"text","text":"系数为非常数","x":-1920,"y":2580,"width":240,"height":100},
+		{"id":"d78d4a73d00565da","type":"text","text":"齐次式","x":-1920,"y":2700,"width":240,"height":100},
+		{"id":"28322a7605c20c5e","type":"text","text":"非齐次式","x":-1920,"y":2820,"width":240,"height":100},
+		{"id":"cc336c14378ec67b","type":"text","text":"#### 一阶线性微分方程通解公式\n\n$$y=e^{-\\int{P(x)}dx}(\\int {Q(x)e^{\\int{P(x)}dx}}dx+Cst.)$$","x":-1140,"y":1340,"width":320,"height":140},
+		{"id":"5e47a14d60852113","type":"text","text":"特征根解法","x":-1460,"y":2600,"width":240,"height":100},
+		{"id":"5d2d3f23369b2a1d","x":2140,"y":-1260,"width":260,"height":80,"type":"text","text":"积分上下限为第一象限角\n\n$\\int_{0}^{\\frac{\\pi}{2}}$"},
+		{
+			"id":"1b430b5ede6841c9",
+			"styleAttributes":{},
+			"text":"#### 华里士公式\n\n$\\LaTeX$ p117",
+			"type":"text",
+			"x":2520,
+			"y":-1300,
+			"width":250,
+			"height":120
+		},
+		{"id":"b64d2ccb1b411db4","x":-840,"y":-2540,"width":240,"height":60,"type":"text","text":"存在二重积分"}
 	]
 }

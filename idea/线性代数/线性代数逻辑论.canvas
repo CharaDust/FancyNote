@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ca516e00f451283e","x":-380,"y":-20,"width":240,"height":60,"type":"text","text":""},
+		{"id":"bf215704ec19ce35","x":40,"y":-20,"width":240,"height":60,"type":"text","text":""},
+		{"id":"8938fbe7f52bb434","type":"text","text":"","x":-380,"y":60,"width":240,"height":60},
+		{"id":"ec58c01052f70a3a","type":"text","text":"","x":40,"y":60,"width":240,"height":60},
+		{"id":"19616a58df6eaa27","type":"text","text":"","x":-380,"y":140,"width":240,"height":60},
+		{"id":"f2314f9bccea785b","type":"text","text":"","x":40,"y":140,"width":240,"height":60},
+		{"id":"ff3ca1255b1fdb7b","x":440,"y":-40,"width":240,"height":80,"type":"text","text":"$$向量组\\alpha_1,\\alpha_2\\cdots\\alpha_n线性相关$$"},
+		{"id":"7eb18f1731893478","x":780,"y":-40,"width":240,"height":80,"type":"text","text":"$$\\mathbf{AX} =0有非零解$$"},
+		{"id":"caf01389042c5df2","x":1120,"y":-40,"width":240,"height":80,"type":"text","text":"$$r(\\alpha_1,\\alpha_2\\cdots\\alpha_n)<n$$"},
+		{"id":"1743a7c52ae09915","type":"text","text":"$$向量组\\alpha_1,\\alpha_2\\cdots\\alpha_n线性无关$$","x":440,"y":60,"width":240,"height":80},
+		{"id":"bae0e9279817c96a","type":"text","text":"$$\\mathbf{AX} =0只有零解$$","x":780,"y":60,"width":240,"height":80},
+		{"id":"4631722f34dd872f","type":"text","text":"$$r(\\alpha_1,\\alpha_2\\cdots\\alpha_n)=n$$","x":1120,"y":60,"width":240,"height":80}
+	],
+	"edges":[
+		{"id":"79788fecc62001f6","fromNode":"ca516e00f451283e","fromSide":"right","toNode":"bf215704ec19ce35","toSide":"left","fromEnd":"arrow","label":"p44"},
+		{"id":"4408f1e9d90202e3","fromNode":"19616a58df6eaa27","fromSide":"right","toNode":"f2314f9bccea785b","toSide":"left","fromEnd":"arrow","label":"p44"},
+		{"id":"8ce24609e8ea6916","fromNode":"8938fbe7f52bb434","fromSide":"right","toNode":"ec58c01052f70a3a","toSide":"left","fromEnd":"arrow","label":"p44"},
+		{"id":"a109920ce0ee72d8","fromNode":"ff3ca1255b1fdb7b","fromSide":"right","toNode":"7eb18f1731893478","toSide":"left","fromEnd":"arrow"},
+		{"id":"32094108bccb0267","fromNode":"7eb18f1731893478","fromSide":"right","toNode":"caf01389042c5df2","toSide":"left","fromEnd":"arrow"},
+		{"id":"57d98f69e2b56131","fromNode":"1743a7c52ae09915","fromSide":"right","toNode":"bae0e9279817c96a","toSide":"left","fromEnd":"arrow"},
+		{"id":"649382ba71df0fcd","fromNode":"bae0e9279817c96a","fromSide":"right","toNode":"4631722f34dd872f","toSide":"left","fromEnd":"arrow"}
+	]
+}
