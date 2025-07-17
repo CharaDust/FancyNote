@@ -20,76 +20,6 @@
             }
           },
           {
-            "id": "bd17268bb76b9e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/线性代数/矩阵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "矩阵"
-            }
-          },
-          {
-            "id": "adfa6a68ba206472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CA/等价无穷小 (A簿).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "等价无穷小 (A簿)"
-            }
-          },
-          {
-            "id": "540ffcac9afdbf2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/线性代数/矩阵.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "矩阵"
-            }
-          },
-          {
-            "id": "93b23c4f6b62c9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integral"
-            }
-          },
-          {
-            "id": "0182315db1a2c1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "草稿"
-            }
-          },
-          {
             "id": "b7b50edd37b9aedf",
             "type": "leaf",
             "state": {
@@ -107,17 +37,14 @@
             "id": "5be6104609a3ce27",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-                "viewState": {
-                  "x": 678.7252891396315,
-                  "y": -48.6472496473912,
-                  "zoom": 0
-                }
+                "file": "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "高等数学方法论概览"
+              "icon": "lucide-file",
+              "title": "Integral (Sheet A)"
             }
           },
           {
@@ -133,9 +60,26 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "fc9f4495e0c2c307",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+                "viewState": {
+                  "x": -1716.3202155458243,
+                  "y": 396.6566325269647,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "高等数学方法论概览"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,17 +227,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd2efd83409fa94b",
+  "active": "fc9f4495e0c2c307",
   "lastOpenFiles": [
-    "log/lifeStory/game/-list.md",
+    "Pasted image 20250715110118.png",
     "README.md",
-    "idea/线性代数/矩阵.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
+    "idea/草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "log/lifeStory/game/-list.md",
+    "idea/线性代数/矩阵.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
     "idea/线性代数/线性代数方法论.canvas",
     "idea/线性代数/线性代数逻辑论.canvas",
-    "idea/草稿.md",
     "idea/线性代数/Matrix.md",
     "idea/线性代数/Determinant.md",
     "idea/线性代数/行列式.md",
@@ -316,11 +262,9 @@
     "lib/IdeologicalNPolitical",
     "111.md",
     "lib/englishPostgraduate/org/wendu/test/-list.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
     "idea/实用小项目/文件分类器 - pixiv/PidOrganizer.py",
     "idea/实用小项目/文件分类器 - pixiv",
     "idea/实用小项目",
-    "lib/mathematicsAdvanced/org/wendu/test/-list.md",
     "lib/englishPostgraduate/org/wendu/test",
     "lib/mathematicsAdvanced/org/wendu/canvas",
     "log/lifeStory/rule",
