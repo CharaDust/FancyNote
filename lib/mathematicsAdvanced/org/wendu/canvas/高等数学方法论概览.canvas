@@ -152,7 +152,6 @@
 		{"id":"dc593670072dd4f2","fromNode":"4b0fd5111d4af51a","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"},
 		{"id":"6d0918e2b03948b1","fromNode":"d78d4a73d00565da","fromSide":"right","toNode":"5e47a14d60852113","toSide":"left"},
 		{"id":"f5666ea4424363c9","fromNode":"5d2d3f23369b2a1d","fromSide":"right","toNode":"1b430b5ede6841c9","toSide":"left"},
-		{"id":"2183a83f4986baba","fromNode":"13652e482005800e","fromSide":"right","toNode":"59394a3a4e2d2007","toSide":"left"},
 		{"id":"259bf9d065d5e53e","fromNode":"9861c798fd9951d6","fromSide":"right","toNode":"7639bd227b6300d9","toSide":"left"},
 		{"id":"cfa2c7f2fbe9efc6","fromNode":"400aecb4ef9a1cbd","fromSide":"right","toNode":"e5a5bb605491ac08","toSide":"left"},
 		{"id":"559dae42db4aa9e4","fromNode":"e5a5bb605491ac08","fromSide":"right","toNode":"392f117aa8aaaf13","toSide":"left"},
@@ -200,10 +199,17 @@
 		{"id":"aaa783992362b73d","fromNode":"cb277df9b7f92854","fromSide":"right","toNode":"0145effdf51ef173","toSide":"left"},
 		{"id":"c1dd88deb71b8c30","fromNode":"3e4bd0aaebb006f0","fromSide":"right","toNode":"cb277df9b7f92854","toSide":"left"},
 		{"id":"cea33cf102f51df3","fromNode":"0145effdf51ef173","fromSide":"right","toNode":"35980f52cbb2895a","toSide":"left"},
-		{"id":"88e2ed72d057b0bd","fromNode":"a0f0c796974b5fcb","fromSide":"right","toNode":"59394a3a4e2d2007","toSide":"left"},
 		{"id":"947831ad2fceff26","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"a0f0c796974b5fcb","toSide":"left"},
 		{"id":"d036e866016a3129","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"13652e482005800e","toSide":"left"},
-		{"id":"eee6b2bc00b14291","fromNode":"7f9bbeb51ef03cda","fromSide":"right","toNode":"a728ea9a2da11318","toSide":"left"}
+		{"id":"eee6b2bc00b14291","fromNode":"7f9bbeb51ef03cda","fromSide":"right","toNode":"a728ea9a2da11318","toSide":"left"},
+		{"id":"aa250732aa774986","fromNode":"4502964abe1c5dcf","fromSide":"right","toNode":"c03a4d3116e4a4bb","toSide":"left"},
+		{"id":"aaa765551296744d","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"4502964abe1c5dcf","toSide":"left"},
+		{"id":"d839f03bd5ca41a1","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"b480299275e16c21","toSide":"left"},
+		{"id":"bebf5256aa6ef1bd","fromNode":"12c12259046bc181","fromSide":"right","toNode":"cd0204d1454bca77","toSide":"left"},
+		{"id":"ae6e7bc52b014839","fromNode":"cd0204d1454bca77","fromSide":"right","toNode":"64b9dd56c85b08c2","toSide":"left"},
+		{"id":"2183a83f4986baba","fromNode":"13652e482005800e","fromSide":"right","toNode":"59394a3a4e2d2007","toSide":"left"},
+		{"id":"88e2ed72d057b0bd","fromNode":"a0f0c796974b5fcb","fromSide":"right","toNode":"59394a3a4e2d2007","toSide":"left"},
+		{"id":"d08e55120f4a64ea","fromNode":"f74a96f877c2d5d8","fromSide":"right","toNode":"70026f3d34934511","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -794,16 +800,6 @@
 			"height":180
 		},
 		{
-			"id":"a728ea9a2da11318",
-			"styleAttributes":{},
-			"text":"求导数",
-			"type":"text",
-			"x":-2000,
-			"y":280,
-			"width":120,
-			"height":60
-		},
-		{
 			"id":"a9227c2ba2f6d5f1",
 			"styleAttributes":{},
 			"text":"存在变限积分\n\n$\\int_{Cst.}^{x}{f~dt}$",
@@ -833,17 +829,6 @@
 			"width":250,
 			"height":60
 		},
-		{
-			"id":"12c12259046bc181",
-			"styleAttributes":{},
-			"text":"",
-			"type":"text",
-			"x":1040,
-			"y":-2800,
-			"width":250,
-			"height":60
-		},
-		{"id":"b64d2ccb1b411db4","type":"text","text":"存在二重积分","x":560,"y":-3760,"width":240,"height":60},
 		{
 			"id":"74c01142d420fc1b",
 			"styleAttributes":{},
@@ -1147,10 +1132,9 @@
 			"width":300,
 			"height":180
 		},
-		{"id":"a071f2f61b98ff96","x":-2454,"y":-55,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b480299275e16c21","x":-1640,"y":760,"width":380,"height":120,"type":"text","text":"结论举例：\n\n若$\\varphi(x)$在$x=a$连续，$f(x)=|x-a|\\varphi(x)$，\n则$\\varphi(x)$在$x=a$可导的充要条件是$\\varphi(x)=0$"},
-		{"id":"a0f0c796974b5fcb","x":-1640,"y":380,"width":240,"height":60,"type":"text","text":"直接求导复杂"},
-		{"id":"13652e482005800e","x":-1640,"y":460,"width":240,"height":60,"type":"text","text":"f(0)=0"},
+		{"id":"a071f2f61b98ff96","type":"text","text":"","x":-2454,"y":-55,"width":250,"height":60},
+		{"id":"a0f0c796974b5fcb","type":"text","text":"直接求导复杂","x":-1640,"y":380,"width":240,"height":60},
+		{"id":"13652e482005800e","type":"text","text":"存在$f(0)=0$","x":-1640,"y":460,"width":240,"height":60},
 		{
 			"id":"00dd81787cd56f76",
 			"styleAttributes":{},
@@ -1162,6 +1146,36 @@
 			"height":100
 		},
 		{"id":"59394a3a4e2d2007","type":"text","text":"#### 导数定义法\n\n$\\LaTeX$","x":-1240,"y":380,"width":240,"height":140},
-		{"id":"7f9bbeb51ef03cda","x":-2280,"y":280,"width":120,"height":60,"type":"text","text":" 求斜率"}
+		{"id":"7f9bbeb51ef03cda","type":"text","text":" 求斜率","x":-2280,"y":280,"width":120,"height":60},
+		{"id":"4502964abe1c5dcf","type":"text","text":"存在抽象函数","x":-1640,"y":540,"width":240,"height":60},
+		{
+			"id":"a728ea9a2da11318",
+			"styleAttributes":{},
+			"text":"求导数",
+			"type":"text",
+			"x":-2060,
+			"y":280,
+			"width":120,
+			"height":60
+		},
+		{"id":"b480299275e16c21","type":"text","text":"结论举例：\n\n若$\\varphi(x)$在$x=a$连续，$f(x)=|x-a|\\varphi(x)$，\n则$\\varphi(x)$在$x=a$可导的充要条件是$\\varphi(x)=0$","x":-1780,"y":120,"width":380,"height":120},
+		{"id":"b64d2ccb1b411db4","type":"text","text":"存在二重积分","x":380,"y":-3620,"width":240,"height":60},
+		{
+			"id":"12c12259046bc181",
+			"styleAttributes":{},
+			"text":"求XXX",
+			"type":"text",
+			"x":680,
+			"y":-3180,
+			"width":240,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"cd0204d1454bca77","type":"text","text":"存在XXX","x":1000,"y":-3180,"width":240,"height":60,"color":"6"},
+		{"id":"64b9dd56c85b08c2","type":"text","text":"方法XXX","x":1320,"y":-3180,"width":240,"height":60,"color":"4"},
+		{"id":"70026f3d34934511","x":-820,"y":-3960,"width":740,"height":400,"type":"file","file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md"},
+		{"id":"1a168dbde3ed284f","x":-1640,"y":740,"width":240,"height":60,"type":"text","text":"求高阶导"},
+		{"id":"ce8aa184717362de","x":-1240,"y":740,"width":240,"height":60,"type":"text","text":"高阶导数公式"},
+		{"id":"1d26c2d76b5e961c","x":-1240,"y":840,"width":240,"height":60,"type":"text","text":""}
 	]
 }
