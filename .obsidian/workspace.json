@@ -53,33 +53,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "草稿"
             }
           },
           {
-            "id": "fc9f4495e0c2c307",
+            "id": "e39e1b083726484f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+                "file": "lib/Political/org/wendu/未命名.canvas",
                 "viewState": {
-                  "x": -1321.767578125,
-                  "y": 702.9706249999999,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "高等数学方法论概览"
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,12 +227,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc9f4495e0c2c307",
+  "active": "fd2efd83409fa94b",
   "lastOpenFiles": [
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-    "Pasted image 20250715110118.png",
+    "lib/Political/org/wendu/未命名.canvas",
+    "lib/Political/org/wendu/草稿.md",
     "README.md",
+    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "lib/Political/org/wendu",
+    "lib/Political/org",
+    "lib/Political",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "Pasted image 20250715110118.png",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "idea/草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
@@ -261,13 +266,9 @@
     "lib/IdeologicalNPolitical/org",
     "lib/IdeologicalNPolitical",
     "111.md",
-    "lib/englishPostgraduate/org/wendu/test/-list.md",
     "idea/实用小项目/文件分类器 - pixiv/PidOrganizer.py",
     "idea/实用小项目/文件分类器 - pixiv",
     "idea/实用小项目",
-    "lib/englishPostgraduate/org/wendu/test",
-    "lib/mathematicsAdvanced/org/wendu/canvas",
-    "log/lifeStory/rule",
     "未命名.canvas"
   ]
 }

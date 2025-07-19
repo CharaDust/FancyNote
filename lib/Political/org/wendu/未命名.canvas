@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e031dcf4b7e94555","type":"text","text":"运动","x":40,"y":-40,"width":100,"height":60},
+		{"id":"d6e8b7ff7fa4f081","x":-180,"y":-40,"width":100,"height":60,"type":"text","text":"物质"}
+	],
+	"edges":[
+		{"id":"cae308765e291ca4","fromNode":"d6e8b7ff7fa4f081","fromSide":"right","toNode":"e031dcf4b7e94555","toSide":"left","label":"本质"}
+	]
+}
