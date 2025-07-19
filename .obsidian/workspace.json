@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/IdeologicalNPolitical/org/wendu/101draft.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "101draft 的大纲"
+              "title": "草稿 的大纲"
             }
           }
         ],
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +226,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd2efd83409fa94b",
+  "active": "2572783570f03dc5",
   "lastOpenFiles": [
     "lib/Political/org/wendu/未命名.canvas",
     "lib/Political/org/wendu/草稿.md",
