@@ -223,7 +223,21 @@
 		{"id":"51649fbbaba59607","fromNode":"a5ba44470442ef7a","fromSide":"right","toNode":"0c43b8020d379e09","toSide":"left"},
 		{"id":"0cce95e864829965","fromNode":"0c43b8020d379e09","fromSide":"right","toNode":"ce653340c3721f40","toSide":"left"},
 		{"id":"9837a9c49f335bcb","fromNode":"ce653340c3721f40","fromSide":"right","toNode":"5d2d3f23369b2a1d","toSide":"left"},
-		{"id":"8e010a3a4f917c2e","fromNode":"fc4323f122c8e1bc","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"}
+		{"id":"8e010a3a4f917c2e","fromNode":"fc4323f122c8e1bc","fromSide":"right","toNode":"d8f55e6a42a4c970","toSide":"left"},
+		{"id":"6538e6aabcfba756","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"1093a74669bbf3af","toSide":"left"},
+		{"id":"a379b4560ba21f67","fromNode":"1093a74669bbf3af","fromSide":"right","toNode":"1b27ae8574782ec5","toSide":"left"},
+		{"id":"6988e36d4ebf6bdf","fromNode":"1b27ae8574782ec5","fromSide":"right","toNode":"eb9a9877e81f6b8c","toSide":"left"},
+		{"id":"150026659b4fb618","fromNode":"9aaf934ed8e52339","fromSide":"right","toNode":"651e6c9cc810ed07","toSide":"left"},
+		{"id":"7380e067daffef01","fromNode":"651e6c9cc810ed07","fromSide":"right","toNode":"e017b40901f22496","toSide":"left","label":"考虑"},
+		{"id":"e2f591962e7ffa3c","fromNode":"bd10d386cdc1cb88","fromSide":"right","toNode":"a709125737eb83a1","toSide":"left"},
+		{"id":"fe28d84aa8ee6fd0","fromNode":"bd10d386cdc1cb88","fromSide":"right","toNode":"99c378d091248907","toSide":"left"},
+		{"id":"fee383ce28b08557","fromNode":"bd10d386cdc1cb88","fromSide":"right","toNode":"fa12cfd8e85bfd45","toSide":"left"},
+		{"id":"4198c9629d1de183","fromNode":"2a28a5689076873d","fromSide":"right","toNode":"d7db86ec2d1cfff6","toSide":"left"},
+		{"id":"072f8dc3a53c0195","fromNode":"2a28a5689076873d","fromSide":"right","toNode":"a94c82501e6557af","toSide":"left","label":"反函数"},
+		{"id":"a44fed1ec27dda20","fromNode":"a94c82501e6557af","fromSide":"right","toNode":"89fce67d59f6e141","toSide":"left"},
+		{"id":"eec0d4bf0983a4c3","fromNode":"f66b72d47df8f1a2","fromSide":"right","toNode":"a94c82501e6557af","toSide":"left"},
+		{"id":"b7640611ec1a39b6","fromNode":"89fce67d59f6e141","fromSide":"right","toNode":"92a0c8306fc9a64f","toSide":"left","label":"思想"},
+		{"id":"9ba0d07e9d897672","fromNode":"2b24ed12b3eacf35","fromSide":"right","toNode":"f66b72d47df8f1a2","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -334,7 +348,8 @@
 			"x":1300,
 			"y":-2000,
 			"width":260,
-			"height":120
+			"height":120,
+			"color":"5"
 		},
 		{
 			"id":"c624285b40592758",
@@ -414,7 +429,8 @@
 			"x":2100,
 			"y":980,
 			"width":460,
-			"height":400
+			"height":400,
+			"color":"5"
 		},
 		{
 			"id":"e58c3c6d054e394d",
@@ -477,16 +493,6 @@
 			"height":100
 		},
 		{
-			"id":"9aaf934ed8e52339",
-			"styleAttributes":{},
-			"text":"存在分数\n\n$\\frac{f(x)}{g(x)}$",
-			"type":"text",
-			"x":740,
-			"y":2500,
-			"width":250,
-			"height":100
-		},
-		{
 			"id":"3377a5d32f2a33ae",
 			"styleAttributes":{},
 			"text":"存在指数函数\n\n$a^x~~e^x$",
@@ -504,7 +510,8 @@
 			"x":2020,
 			"y":1500,
 			"width":460,
-			"height":400
+			"height":400,
+			"color":"5"
 		},
 		{
 			"id":"c4c65fe1b80a8344",
@@ -574,7 +581,8 @@
 			"x":1620,
 			"y":-560,
 			"width":740,
-			"height":400
+			"height":400,
+			"color":"5"
 		},
 		{
 			"file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
@@ -584,7 +592,8 @@
 			"x":1600,
 			"y":20,
 			"width":640,
-			"height":400
+			"height":400,
+			"color":"5"
 		},
 		{
 			"id":"d4fd3bbaaa1f5f68",
@@ -666,74 +675,6 @@
 			"width":250,
 			"height":60
 		},
-		{
-			"id":"318860775a5beeb3",
-			"styleAttributes":{},
-			"text":"#### 倒代换\n\n$\\LaTeX$",
-			"type":"text",
-			"x":1520,
-			"y":2420,
-			"width":240,
-			"height":120
-		},
-		{
-			"id":"51898bee1cb78f4f",
-			"styleAttributes":{},
-			"text":"因式分解",
-			"type":"text",
-			"x":1520,
-			"y":2560,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"8f1a2d3935e5a258",
-			"styleAttributes":{},
-			"text":"长除法",
-			"type":"text",
-			"x":1520,
-			"y":2640,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"e5b39a1a514a423f",
-			"styleAttributes":{},
-			"text":"约分（将分母约去）",
-			"type":"text",
-			"x":1860,
-			"y":2600,
-			"width":250,
-			"height":60
-		},
-		{"id":"1576fe35545656cb","type":"text","text":"设除法导数猜f(x)\n\nWenDu.4.2.1.6","x":1520,"y":2740,"width":240,"height":100},
-		{
-			"id":"a7a7fdd63a44ca27",
-			"styleAttributes":{},
-			"text":"分母次数高于分子两次以上\n\n$\\frac{f(x^2)}{f(x^4)}$",
-			"type":"text",
-			"x":1160,
-			"y":2440,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"1e11e77c8d666657",
-			"styleAttributes":{},
-			"text":"分子次数较高\n\n$\\frac{f(x^3)}{f(x)}$",
-			"type":"text",
-			"x":1160,
-			"y":2560,
-			"width":260,
-			"height":100
-		},
-		{"id":"dbc1508a731a9276","type":"text","text":"分母正好是平方式\n\n$\\frac{f(x)}{(g(x))^2}$","x":1160,"y":2740,"width":260,"height":100},
-		{"id":"0b066376e67a9eb5","type":"text","text":"分母次数高于分子一次\n\n$\\frac{f(x^2)}{f(x^3)}$","x":1160,"y":2880,"width":260,"height":100},
-		{"id":"57350f89153b3280","type":"text","text":"分子是分母的导数\n\n$\\frac{f^\\prime(x)}{f(x)}$","x":1520,"y":2880,"width":260,"height":100},
-		{"id":"b48e87984947af0b","type":"text","text":"#### 复合自然对数函数求导公式\n\n$$\\int{\\frac{f^\\prime(x)}{f(x)}}~dx = \\ln|f(x)|+Cst.$$","x":1900,"y":2860,"width":320,"height":140},
-		{"id":"a8f9b8fbbf3ec0f6","type":"text","text":"分母是平方和\n\n$\\frac{f(x)}{\\alpha^2(x)+\\beta^2(x)}$","x":1160,"y":3020,"width":260,"height":100,"color":"6"},
-		{"id":"13409c73bf877455","type":"text","text":"反正切函数的复合函数","x":1560,"y":3040,"width":240,"height":60,"color":"6"},
-		{"id":"13a5950a4b74388a","type":"text","text":"分子存在对数函数\n\n$\\frac{\\ln f(x)}{g(x)}$","x":1160,"y":2300,"width":200,"height":120,"color":"6"},
 		{"id":"add3176892bac22f","type":"text","text":"方程的阶数为2\n\n$f(x,y,y^\\prime,y^{\\prime \\prime})=0$","x":-2660,"y":2300,"width":240,"height":100},
 		{"id":"2b9b76269de1dc9b","type":"text","text":"求微分方程","x":-3020,"y":2140,"width":240,"height":60},
 		{"id":"b4552d888772ca65","type":"text","text":"方程的阶数为1\n\n$f(x,y,y^\\prime)=0$","x":-2120,"y":2000,"width":240,"height":100},
@@ -847,7 +788,7 @@
 		{"id":"efe480132c2659ee","type":"text","text":"含n式子中第n项与第1项相比等于1","x":-2980,"y":-1680,"width":320,"height":60},
 		{"id":"182dcb03dc84c1ee","type":"text","text":"夹逼准则","x":-2520,"y":-1680,"width":240,"height":60},
 		{"id":"7798c552e5e31512","type":"text","text":"“大同小异”","x":-2160,"y":-1680,"width":240,"height":60},
-		{"id":"35980f52cbb2895a","type":"text","text":"#### 等分定积分定义\n\nn等分右点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k}{n})\\cdot\\frac{1}{n}$$\nn等分中点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{2k-1}{2n})\\cdot\\frac{1}{n}$$\nn等分左点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k-1}{n})\\cdot\\frac{1}{n}$$\n2n等分：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k}{2n})\\cdot\\frac{1}{2n}$$","x":-1840,"y":-1780,"width":300,"height":500},
+		{"id":"35980f52cbb2895a","type":"text","text":"#### 等分定积分定义\n\nn等分右点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k}{n})\\cdot\\frac{1}{n}$$\nn等分中点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{2k-1}{2n})\\cdot\\frac{1}{n}$$\nn等分左点：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k-1}{n})\\cdot\\frac{1}{n}$$\n2n等分：\n$$\\int_{0}^{1}f(x)dx=\\lim_{n \\to \\infty} \\sum_{k=1}^{n}f(\\frac{k}{2n})\\cdot\\frac{1}{2n}$$","x":-1840,"y":-1780,"width":300,"height":500,"color":"5"},
 		{"id":"7ef6ec5ae646e895","type":"text","text":"\n\n$\\sqrt[n]{a_1^n+a_2^n+\\cdots+a_n^n}=max\\{\\}$","x":-2600,"y":-1820,"width":260,"height":100},
 		{"id":"b9ca961d8c8fac8e","type":"text","text":"高次根号内n项求和","x":-2960,"y":-1800,"width":240,"height":60},
 		{"id":"3e4bd0aaebb006f0","type":"text","text":"n项求和","x":-3340,"y":-1700,"width":240,"height":60},
@@ -1128,20 +1069,7 @@
 		},
 		{"id":"b480299275e16c21","type":"text","text":"结论举例：\n\n若$\\varphi(x)$在$x=a$连续，$f(x)=|x-a|\\varphi(x)$，\n则$\\varphi(x)$在$x=a$可导的充要条件是$\\varphi(x)=0$","x":-1780,"y":120,"width":380,"height":120},
 		{"id":"b64d2ccb1b411db4","type":"text","text":"存在二重积分","x":380,"y":-3620,"width":240,"height":60},
-		{
-			"id":"12c12259046bc181",
-			"styleAttributes":{},
-			"text":"求XXX",
-			"type":"text",
-			"x":680,
-			"y":-3180,
-			"width":240,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"cd0204d1454bca77","type":"text","text":"存在XXX","x":1000,"y":-3180,"width":240,"height":60,"color":"6"},
-		{"id":"64b9dd56c85b08c2","type":"text","text":"方法XXX","x":1320,"y":-3180,"width":240,"height":60,"color":"4"},
-		{"id":"70026f3d34934511","type":"file","file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md","x":-820,"y":-3960,"width":740,"height":400},
+		{"id":"70026f3d34934511","type":"file","file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md","x":-820,"y":-3960,"width":740,"height":400,"color":"5"},
 		{"id":"ce8aa184717362de","type":"text","text":"高阶导数公式","x":-1240,"y":620,"width":240,"height":60},
 		{"id":"1d26c2d76b5e961c","type":"text","text":"运算法则","x":-1240,"y":720,"width":240,"height":60},
 		{"id":"1a168dbde3ed284f","type":"text","text":"求高阶导","x":-1640,"y":620,"width":240,"height":60},
@@ -1155,34 +1083,21 @@
 			"width":240,
 			"height":100
 		},
-		{"id":"b68676787c37a0a5","x":-3120,"y":620,"width":300,"height":100,"type":"text","text":"存在函数及其变量导数线性组合\n\n$\\xi f^\\prime(\\xi)+nf(\\xi)=0$"},
-		{"id":"c7a66239ff73fac2","x":-3120,"y":740,"width":260,"height":100,"type":"text","text":"存在导数等于函数倍函数\n\n$f^\\prime(\\xi)+P(\\xi)f(\\xi)=0$"},
-		{"id":"aa66b9b52e54cd44","x":-2720,"y":620,"width":240,"height":100,"type":"text","text":"假设辅助方程\n\n$x^nf(x)$"},
-		{"id":"413b4aebdcbad5ef","x":-2720,"y":740,"width":240,"height":100,"type":"text","text":"假设辅助方程\n\n$e^{\\int P(x)dx}f(x)$"},
-		{"id":"414aaecef4c4353d","x":-2320,"y":660,"width":240,"height":140,"type":"text","text":"#### 罗尔中值定理"},
+		{"id":"b68676787c37a0a5","type":"text","text":"存在函数及其变量导数线性组合\n\n$\\xi f^\\prime(\\xi)+nf(\\xi)=0$","x":-3120,"y":620,"width":300,"height":100},
+		{"id":"c7a66239ff73fac2","type":"text","text":"存在导数等于函数倍函数\n\n$f^\\prime(\\xi)+P(\\xi)f(\\xi)=0$","x":-3120,"y":740,"width":260,"height":100},
+		{"id":"aa66b9b52e54cd44","type":"text","text":"假设辅助方程\n\n$x^nf(x)$","x":-2720,"y":620,"width":240,"height":100},
+		{"id":"413b4aebdcbad5ef","type":"text","text":"假设辅助方程\n\n$e^{\\int P(x)dx}f(x)$","x":-2720,"y":740,"width":240,"height":100},
+		{"id":"414aaecef4c4353d","type":"text","text":"#### 罗尔中值定理","x":-2320,"y":660,"width":240,"height":140},
 		{"id":"4d76edfd60da009e","type":"text","text":"求水平渐近线","x":-4000,"y":-3520,"width":240,"height":60},
 		{"id":"400aecb4ef9a1cbd","type":"text","text":"求斜渐近线","x":-4000,"y":-3400,"width":240,"height":60},
-		{"id":"8f7f1e698b827159","x":-4000,"y":-3280,"width":240,"height":60,"type":"text","text":"求铅锤渐近线"},
+		{"id":"8f7f1e698b827159","type":"text","text":"求铅锤渐近线","x":-4000,"y":-3280,"width":240,"height":60},
 		{"id":"e5a5bb605491ac08","type":"text","text":"求k\n\n$k=lim_{x\\to \\pm\\infty}\\frac{f(x)}{x}$","x":-3680,"y":-3420,"width":240,"height":100},
-		{"id":"a0db7b77329bdf98","x":-3680,"y":-3280,"width":240,"height":60,"type":"text","text":""},
+		{"id":"a0db7b77329bdf98","type":"text","text":"","x":-3680,"y":-3280,"width":240,"height":60},
 		{"id":"064a3b8b2c49fc80","type":"text","text":"","x":-3680,"y":-3520,"width":240,"height":60},
-		{"id":"7e05052b422a62c1","x":-4400,"y":-3400,"width":250,"height":60,"type":"text","text":"求斜渐近线"},
+		{"id":"7e05052b422a62c1","type":"text","text":"求斜渐近线","x":-4400,"y":-3400,"width":250,"height":60},
 		{"id":"392f117aa8aaaf13","type":"text","text":"求b","x":-3360,"y":-3420,"width":250,"height":100},
-		{
-			"id":"7d4806bc891db1f3",
-			"styleAttributes":{},
-			"text":"#### 公式卡片\n\n$\\LaTeX$",
-			"type":"text",
-			"x":1040,
-			"y":-3040,
-			"width":240,
-			"height":120
-		},
-		{"id":"c62990790ac4d21a","type":"text","text":"条件卡片\n\n$\\LaTeX$","x":1040,"y":-2880,"width":240,"height":100},
-		{"id":"f37941baecfc909f","type":"text","text":"一般卡片","x":1040,"y":-2740,"width":240,"height":60},
-		{"id":"5544fa6294ab02c0","x":-3780,"y":-1100,"width":240,"height":140,"type":"text","text":"#### 曲率公式\n\n$K=\\frac{|y^{\\prime\\prime}|}{(1+(y^{\\prime})^2)^{\\frac32}}$"},
-		{"id":"e017b40901f22496","x":1720,"y":2060,"width":260,"height":140,"type":"text","text":"#### 凑函数导数线性组合\n\n$$\\int\\frac{mf(x)+nf^\\prime(x)}{f(x)}$$"},
-		{"id":"0c43b8020d379e09","x":2140,"y":-1280,"width":240,"height":100,"type":"text","text":"积分上下限为正仪限角\n\n$\\int_{0}^{\\pi}$"},
+		{"id":"5544fa6294ab02c0","type":"text","text":"#### 曲率公式\n\n$K=\\frac{|y^{\\prime\\prime}|}{(1+(y^{\\prime})^2)^{\\frac32}}$","x":-3780,"y":-1100,"width":240,"height":140,"color":"5"},
+		{"id":"0c43b8020d379e09","type":"text","text":"积分上下限为正仪限角\n\n$\\int_{0}^{\\pi}$","x":2140,"y":-1280,"width":240,"height":100},
 		{
 			"id":"1b430b5ede6841c9",
 			"styleAttributes":{},
@@ -1191,9 +1106,10 @@
 			"x":3460,
 			"y":-1400,
 			"width":300,
-			"height":320
+			"height":320,
+			"color":"5"
 		},
-		{"id":"ce653340c3721f40","x":2520,"y":-1320,"width":420,"height":200,"type":"text","text":"区间转换\n\n$$\\int_{0}^{\\pi}\\sin^n xdx=2\\int_{0}^{\\frac{\\pi}{2} }\\sin^n xdx$$\n\n$$\\int_{0}^{\\pi}\\cos^n xdx=\\left\\{\\begin{matrix}\n 0 & n\\in +\\mathrm{even} \\\\\n 2\\int_{0}^{\\frac{\\pi}{2} }\\cos^n xdx & n\\in +\\mathrm{odd}\\cap n>1\n\\end{matrix}\\right.\n$$"},
+		{"id":"ce653340c3721f40","type":"text","text":"区间转换\n\n$$\\int_{0}^{\\pi}\\sin^n xdx=2\\int_{0}^{\\frac{\\pi}{2} }\\sin^n xdx$$\n\n$$\\int_{0}^{\\pi}\\cos^n xdx=\\left\\{\\begin{matrix}\n 0 & n\\in +\\mathrm{even} \\\\\n 2\\int_{0}^{\\frac{\\pi}{2} }\\cos^n xdx & n\\in +\\mathrm{odd}\\cap n>1\n\\end{matrix}\\right.\n$$","x":2520,"y":-1320,"width":420,"height":200},
 		{"id":"5d2d3f23369b2a1d","type":"text","text":"积分上下限为第一象限角\n\n$\\int_{0}^{\\frac{\\pi}{2}}$","x":3080,"y":-1280,"width":260,"height":100},
 		{
 			"id":"fff7856434691e17",
@@ -1203,7 +1119,128 @@
 			"x":2600,
 			"y":-1700,
 			"width":320,
-			"height":340
-		}
+			"height":340,
+			"color":"5"
+		},
+		{
+			"id":"9aaf934ed8e52339",
+			"styleAttributes":{},
+			"text":"存在分数\n\n$\\frac{f(x)}{g(x)}$",
+			"type":"text",
+			"x":760,
+			"y":2740,
+			"width":250,
+			"height":100
+		},
+		{
+			"id":"318860775a5beeb3",
+			"styleAttributes":{},
+			"text":"#### 倒代换\n\n$\\LaTeX$",
+			"type":"text",
+			"x":1540,
+			"y":2660,
+			"width":240,
+			"height":120
+		},
+		{"id":"57350f89153b3280","type":"text","text":"分子是分母的导数\n\n$\\frac{f^\\prime(x)}{f(x)}$","x":1540,"y":2820,"width":260,"height":100},
+		{"id":"b48e87984947af0b","type":"text","text":"#### 复合自然对数函数求导公式\n\n$$\\int{\\frac{f^\\prime(x)}{f(x)}}~dx = \\ln|f(x)|+Cst.$$","x":1920,"y":2800,"width":320,"height":140,"color":"5"},
+		{"id":"1576fe35545656cb","type":"text","text":"设除法导数猜f(x)\n\nWenDu.4.2.1.6","x":1540,"y":2960,"width":240,"height":100},
+		{"id":"13409c73bf877455","type":"text","text":"反正切函数的复合函数","x":1580,"y":3260,"width":240,"height":60,"color":"6"},
+		{
+			"id":"51898bee1cb78f4f",
+			"styleAttributes":{},
+			"text":"因式分解",
+			"type":"text",
+			"x":1540,
+			"y":3080,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"8f1a2d3935e5a258",
+			"styleAttributes":{},
+			"text":"长除法",
+			"type":"text",
+			"x":1540,
+			"y":3160,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"e5b39a1a514a423f",
+			"styleAttributes":{},
+			"text":"约分（将分母约去）",
+			"type":"text",
+			"x":1880,
+			"y":3120,
+			"width":250,
+			"height":60
+		},
+		{"id":"13a5950a4b74388a","type":"text","text":"分子存在对数函数\n\n$\\frac{\\ln f(x)}{g(x)}$","x":1180,"y":2540,"width":200,"height":120,"color":"6"},
+		{
+			"id":"a7a7fdd63a44ca27",
+			"styleAttributes":{},
+			"text":"分母次数高于分子两次以上\n\n$\\frac{f(x^2)}{f(x^4)}$",
+			"type":"text",
+			"x":1180,
+			"y":2680,
+			"width":260,
+			"height":100
+		},
+		{"id":"0b066376e67a9eb5","type":"text","text":"分母次数高于分子一次\n\n$\\frac{f(x^2)}{f(x^3)}$","x":1180,"y":2820,"width":260,"height":100},
+		{"id":"dbc1508a731a9276","type":"text","text":"分母正好是平方式\n\n$\\frac{f(x)}{(g(x))^2}$","x":1180,"y":2960,"width":260,"height":100},
+		{"id":"a8f9b8fbbf3ec0f6","type":"text","text":"分母是平方和\n\n$\\frac{f(x)}{\\alpha^2(x)+\\beta^2(x)}$","x":1180,"y":3240,"width":260,"height":100,"color":"6"},
+		{
+			"id":"1e11e77c8d666657",
+			"styleAttributes":{},
+			"text":"分子次数较高\n\n$\\frac{f(x^3)}{f(x)}$",
+			"type":"text",
+			"x":1180,
+			"y":3100,
+			"width":260,
+			"height":100
+		},
+		{"id":"1b27ae8574782ec5","type":"text","text":"配方","x":1540,"y":2180,"width":240,"height":60},
+		{"id":"1093a74669bbf3af","type":"text","text":"分母存在多项式","x":1180,"y":2160,"width":260,"height":100},
+		{"id":"651e6c9cc810ed07","type":"text","text":"无从下手？","x":1180,"y":2380,"width":260,"height":60},
+		{"id":"e017b40901f22496","type":"text","text":"#### 凑函数导数线性组合\n\n$$\\int\\frac{mf(x)+nf^\\prime(x)}{f(x)}$$\n求解m和n使得分子等于原式分子","x":1640,"y":2320,"width":300,"height":160},
+		{"id":"db26060c5e7a32ce","type":"text","text":"随后将新的积分变量导入并回代反三角函数","x":2060,"y":1880,"width":380,"height":60},
+		{"id":"99c378d091248907","type":"text","text":"参数方程曲线","x":960,"y":-2500,"width":240,"height":100},
+		{"id":"a709125737eb83a1","x":960,"y":-2360,"width":240,"height":100,"type":"text","text":"常规函数曲线"},
+		{"id":"fa12cfd8e85bfd45","type":"text","text":"极坐标曲线","x":960,"y":-2220,"width":240,"height":100},
+		{"id":"bd10d386cdc1cb88","x":640,"y":-2340,"width":240,"height":60,"type":"text","text":"线长问题"},
+		{
+			"id":"7d4806bc891db1f3",
+			"styleAttributes":{},
+			"text":"#### 公式卡片\n\n$\\LaTeX$",
+			"type":"text",
+			"x":-440,
+			"y":-1780,
+			"width":240,
+			"height":120,
+			"color":"5"
+		},
+		{"id":"c62990790ac4d21a","type":"text","text":"条件卡片\n\n$\\LaTeX$","x":-440,"y":-1620,"width":240,"height":100},
+		{"id":"f37941baecfc909f","type":"text","text":"一般卡片","x":-440,"y":-1480,"width":240,"height":60},
+		{
+			"id":"12c12259046bc181",
+			"styleAttributes":{},
+			"text":"求XXX",
+			"type":"text",
+			"x":-800,
+			"y":-1920,
+			"width":240,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"cd0204d1454bca77","type":"text","text":"存在XXX","x":-480,"y":-1920,"width":240,"height":60,"color":"6"},
+		{"id":"64b9dd56c85b08c2","type":"text","text":"方法XXX","x":-160,"y":-1920,"width":240,"height":60,"color":"4"},
+		{"id":"2b24ed12b3eacf35","type":"text","text":"体积问题","x":640,"y":-2900,"width":240,"height":60},
+		{"id":"f66b72d47df8f1a2","x":980,"y":-2900,"width":240,"height":60,"type":"text","text":"绕轴旋转"},
+		{"id":"92a0c8306fc9a64f","x":2020,"y":-2960,"width":300,"height":180,"type":"text","text":"使用微元法对$f(x)$微分\n将$f(x)$切成很多$dx$\n每一个$dx$对应一个扁扁的圆柱体\n半径$r=f(dx)$、高$h=dx$\n体积为$V=\\pi\\cdot (f(dx))^2\\cdot dx$\n随后对$d(fx)$积分"},
+		{"id":"89fce67d59f6e141","x":1640,"y":-2940,"width":240,"height":140,"color":"5","type":"text","text":"#### 曲边圆柱/圆环体积\n\n$$V=\\int_{a}^{b}(f(x))^2dx$$"},
+		{"id":"a94c82501e6557af","x":1320,"y":-2900,"width":240,"height":60,"type":"text","text":"自变量与旋转轴一致"},
+		{"id":"d7db86ec2d1cfff6","x":1640,"y":-2720,"width":240,"height":140,"color":"5","type":"text","text":"#### 曲顶圆柱/圆环体积\n\n$$V=\\int_{a}^{b}2\\pi x|f(x)|dx$$"},
+		{"id":"2a28a5689076873d","x":1320,"y":-2680,"width":240,"height":60,"type":"text","text":"自变量与旋转轴不一致"}
 	]
 }
