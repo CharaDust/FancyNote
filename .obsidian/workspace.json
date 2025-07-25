@@ -201,7 +201,7 @@
               "type": "outline",
               "state": {
                 "file": "lib/Political/org/wendu/草稿.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
