@@ -55,9 +55,9 @@
               "state": {
                 "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
                 "viewState": {
-                  "x": 1654.6848762288469,
-                  "y": 32.97202614278447,
-                  "zoom": -1.8039140410160104
+                  "x": 2072.3515625,
+                  "y": -3452.8379687499996,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/Political/org/wendu/草稿.md",
-                "followCursor": true,
+                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿 的大纲"
+              "title": "高等数学方法论概览 的大纲"
             }
           }
         ],
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,19 +227,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1cad3ee6d4a18fdf",
+  "active": "5abeccffde657703",
   "lastOpenFiles": [
-    "log/lifeStory/game/-list.md",
-    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
     "lib/Political/org/wendu/草稿.md",
     "README.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/Political/org/wendu/未命名.canvas",
+    "Pasted image 20250715110118.png",
+    "log/lifeStory/game/-list.md",
+    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/Political/org/wendu",
     "lib/Political/org",
     "lib/Political",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "Pasted image 20250715110118.png",
     "idea/草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "idea/线性代数/矩阵.md",
