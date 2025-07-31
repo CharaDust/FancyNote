@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/草稿.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+                "file": "idea/草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高等数学方法论概览 的大纲"
+              "title": "草稿 的大纲"
             }
           }
         ],
@@ -241,14 +241,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5abeccffde657703",
+  "active": "1e153625054e47ea",
   "lastOpenFiles": [
+    "lib/Political/org/wendu/草稿.md",
     "idea/草稿.md",
-    "idea/线性代数/矩阵.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "idea/线性代数/矩阵.md",
     "idea/线性代数/Determinant.md",
     "idea/线性代数/Matrix.md",
-    "lib/Political/org/wendu/草稿.md",
     "README.md",
     "lib/Political/org/wendu/未命名.canvas",
     "Pasted image 20250715110118.png",
