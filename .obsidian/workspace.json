@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea/草稿.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,11 +241,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e153625054e47ea",
+  "active": "1cad3ee6d4a18fdf",
   "lastOpenFiles": [
-    "lib/Political/org/wendu/草稿.md",
     "idea/草稿.md",
+    "lib/Political/org/wendu/草稿.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
+    "Pasted image 20250731164902.png",
     "idea/线性代数/矩阵.md",
     "idea/线性代数/Determinant.md",
     "idea/线性代数/Matrix.md",
@@ -253,7 +255,6 @@
     "lib/Political/org/wendu/未命名.canvas",
     "Pasted image 20250715110118.png",
     "log/lifeStory/game/-list.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/Political/org/wendu",
     "lib/Political/org",
     "lib/Political",
