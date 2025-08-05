@@ -20,80 +20,21 @@
             }
           },
           {
-            "id": "b7b50edd37b9aedf",
+            "id": "cfef5a851fc57463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differential"
-            }
-          },
-          {
-            "id": "5be6104609a3ce27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integral (Sheet A)"
-            }
-          },
-          {
-            "id": "5abeccffde657703",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-                "viewState": {
-                  "x": -1725.43359375,
-                  "y": -1701.4804687499995,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "高等数学方法论概览"
-            }
-          },
-          {
-            "id": "1cad3ee6d4a18fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/Political/org/wendu/草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "草稿"
-            }
-          },
-          {
-            "id": "1e153625054e47ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "草稿"
+              "title": "Taylor's Formula"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,24 +182,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1cad3ee6d4a18fdf",
+  "active": "820f926d754efe56",
   "lastOpenFiles": [
-    "idea/草稿.md",
-    "lib/Political/org/wendu/草稿.md",
+    "README.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
+    "idea/待整理的数学公式.md",
+    "idea/关于我自己.md",
+    "lib/Political/org/wendu/草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "idea/草稿.md",
+    "lib/mathematicsAdvanced/org/wendu/canvas/求微分方程.canvas",
     "Pasted image 20250731164902.png",
     "idea/线性代数/矩阵.md",
     "idea/线性代数/Determinant.md",
     "idea/线性代数/Matrix.md",
-    "README.md",
     "lib/Political/org/wendu/未命名.canvas",
     "Pasted image 20250715110118.png",
     "log/lifeStory/game/-list.md",
     "lib/Political/org/wendu",
     "lib/Political/org",
     "lib/Political",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "idea/线性代数/线性代数方法论.canvas",
     "idea/线性代数/线性代数逻辑论.canvas",
@@ -270,8 +215,6 @@
     "idea/预定拍摄计划明细.md",
     "idea/软件无线电.md",
     "idea/米家游戏代行托管计划.md",
-    "idea/关于我自己.md",
-    "idea/待整理的数学公式.md",
     "idea/创新创业计划书.md",
     "lib/englishPostgraduate/org/wendu/write type 1.md",
     "lib/mathematicsAdvanced/org/wendu/test/weekB04.md",

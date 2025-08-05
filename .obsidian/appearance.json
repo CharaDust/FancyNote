@@ -1,7 +1,7 @@
 {
-  "textFontFamily": "Times New Roman,SimSong,宋体",
+  "textFontFamily": "Times New Roman,宋体,SimSong,Songti SC",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Courier",
   "translucency": true,
-  "cssTheme": "GitHub Theme"
+  "cssTheme": ""
 }
