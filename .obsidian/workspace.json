@@ -25,16 +25,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taylor's Formula"
+              "title": "草稿"
+            }
+          },
+          {
+            "id": "730385e13dfa24f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idea/线性代数/公式/Determinant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Determinant"
+            }
+          },
+          {
+            "id": "606da3f55a712a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3f820e6d6717658f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idea/线性代数/公式/矩阵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/Political/org/wendu/草稿.md",
-                "followCursor": false,
+                "file": "idea/线性代数/公式/矩阵.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿 的大纲"
+              "title": "矩阵 的大纲"
             }
           }
         ],
@@ -169,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,32 +223,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "820f926d754efe56",
+  "active": "3f820e6d6717658f",
   "lastOpenFiles": [
+    "idea/线性代数/公式/行列式.md",
+    "idea/草稿.md",
+    "idea/线性代数/公式/矩阵.md",
+    "idea/线性代数/公式/Determinant.md",
     "README.md",
+    "log/lifeStory/-list.md",
+    "log/lifeStory/rule/haloEffect.md",
+    "idea/线性代数/公式/Matrix.md",
+    "idea/线性代数/公式",
+    "idea/线性代数/线性代数逻辑论.canvas",
+    "idea/线性代数/线性代数方法论.canvas",
+    "log/lifeStory/game/-list.md",
+    "lib/Political/org/wendu/草稿.md",
+    "Pasted image 20250807150826.png",
+    "未命名.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula.md",
+    "lib/mathematicsAdvanced/org/wendu/test/-list.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
     "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
     "idea/待整理的数学公式.md",
     "idea/关于我自己.md",
-    "lib/Political/org/wendu/草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet A/Integral (Sheet A).md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "idea/草稿.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/求微分方程.canvas",
     "Pasted image 20250731164902.png",
-    "idea/线性代数/矩阵.md",
-    "idea/线性代数/Determinant.md",
-    "idea/线性代数/Matrix.md",
     "lib/Political/org/wendu/未命名.canvas",
     "Pasted image 20250715110118.png",
-    "log/lifeStory/game/-list.md",
     "lib/Political/org/wendu",
     "lib/Political/org",
     "lib/Political",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
-    "idea/线性代数/线性代数方法论.canvas",
-    "idea/线性代数/线性代数逻辑论.canvas",
-    "idea/线性代数/行列式.md",
     "idea/运算律.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CA/等价无穷小 (A簿).md",
     "idea/线性代数",
@@ -217,16 +265,11 @@
     "idea/米家游戏代行托管计划.md",
     "idea/创新创业计划书.md",
     "lib/englishPostgraduate/org/wendu/write type 1.md",
-    "lib/mathematicsAdvanced/org/wendu/test/weekB04.md",
-    "lib/mathematicsAdvanced/org/wendu/test/hours01.md",
-    "lib/IdeologicalNPolitical/org/wendu/101draft.md",
     "lib/IdeologicalNPolitical/org/wendu",
     "lib/IdeologicalNPolitical/org",
     "lib/IdeologicalNPolitical",
-    "111.md",
     "idea/实用小项目/文件分类器 - pixiv/PidOrganizer.py",
     "idea/实用小项目/文件分类器 - pixiv",
-    "idea/实用小项目",
     "未命名.canvas"
   ]
 }

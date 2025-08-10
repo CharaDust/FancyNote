@@ -37,6 +37,12 @@ $$\begin{vmatrix}
 \end{vmatrix}
 =
 \underline{~0~}
+\begin{vmatrix}
+ ~~~~~~ & ~~~~~~ & ~~~~~ & ~~~~~~\\
+  &  &  & \\
+  &  &  & \\
+  &  &  & \times
+\end{vmatrix}
 $$
 $$\begin{vmatrix}
  a_{1,1} & a_{1,2} & \cdot & a_{1,n}\\
@@ -59,13 +65,13 @@ $$\begin{vmatrix}
  a_{n,1} & a_{n,2} & \cdots & a_{n,n}
 \end{vmatrix}
 =
-\underline{~0~}
+\underline{~0
 \begin{vmatrix}
  ~~~~~~ & ~~~~~~ & ~~~~~ & ~~~~~~\\
   &  &  & \\
   &  &  & \\
   &  &  & \times
-\end{vmatrix}$$
+\end{vmatrix}~}$$
 $$\begin{vmatrix}
  a_{1,1} & a_{1,2} & \cdot & a_{1,n}\\
  ka_{1,1} & ka_{1,2} & \cdot & ka_{1,n}\\
@@ -178,6 +184,15 @@ $$
 **Constant-sum determinant**
 **Feature**: The sum of each column (or row) is equal.  
 **Method**: Add all rows (or columns) to the first row (or column), then construct an entire row (or column) of 1's.
+**Example**:
+$$D_n = \begin{vmatrix}
+x & a & a & \cdot & a \\
+a & x & a & \cdot & a \\
+a & a & x & \cdot & a \\
+\cdot & \cdot & \cdot & \ddots & \vdots \\
+a & a & a & \cdots & x
+\end{vmatrix}
+= (x - a)^{n-1} (x + (n - 1)a)$$
 
 **Vandermonde determinant**
 $$
@@ -195,18 +210,18 @@ $$
 $$
 M_{r,c}=
 \begin{vmatrix}
-a&a&a&\cancel{s_{1,c}}&a\\
-a&a&a&\cancel{s_{2,c}}&a\\
-a&a&a&\cancel{s_{3,c}}&a\\
+?&?&?&\cancel{s_{1,c}}&?\\
+?&?&?&\cancel{s_{2,c}}&?\\
+?&?&?&\cancel{s_{3,c}}&?\\
 \cancel{s_{r,1}}&\cancel{s_{r,c}}&\cancel{s_{r,3}}&\boxed{\cancel{s_{r,c}}}&\cancel{s_{r,n}}\\
-a&a&a&\cancel{s_{n,c}}&a
+?&?&?&\cancel{s_{n,c}}&?
 \end{vmatrix}
 =
 \begin{vmatrix}
-a&a&a&a\\
-a&a&a&a\\
-a&a&a&a\\
-a&a&a&a
+?&?&?&?\\
+?&?&?&?\\
+?&?&?&?\\
+?&?&?&?
 \end{vmatrix}
 $$
 $$
@@ -214,10 +229,10 @@ A_{r,c}=(-1)^{r+c}\,M_{r,c}
 $$
 $$
 \begin{vmatrix}
-a&a&w_{1,c}&a\\
-a&a&x_{2,c}&a\\
-a&a&y_{3,c}&a\\
-a&a&z_{4,c}&a
+?&?&w_{1,c}&?\\
+?&?&x_{2,c}&?\\
+?&?&y_{3,c}&?\\
+?&?&z_{4,c}&?
 \end{vmatrix}=
 w\cdot A_{1,c}+x\cdot A_{2,c}+y\cdot A_{3,c}+z\cdot A_{4,c}
 $$
