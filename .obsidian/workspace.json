@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "25e60e5766f65f00",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
+          },
+          {
             "id": "acdc606bf3ee7992",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/lifeStory/event/-list.md",
+                "file": "lib/Political/org/wendu/草稿.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "-list 的大纲"
+              "title": "草稿 的大纲"
             }
           }
         ],
@@ -197,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -205,19 +218,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8c19f0e6a1ee43f",
+  "active": "cfef5a851fc57463",
   "lastOpenFiles": [
-    "log/lifeStory/event/Golden House Event I.md",
+    "lib/Political/org/wendu/未命名.canvas",
+    "lib/englishPostgraduate/org/wendu/composition/未命名.md",
+    "lib/englishPostgraduate/org/wendu/test/-list.md",
+    "lib/Political/org/wendu/草稿.md",
     "log/lifeStory/event/-list.md",
     "log/lifeStory/event/Golden House Event III.md",
     "log/lifeStory/event/Golden House Event II.md",
+    "log/lifeStory/event/Golden House Event I.md",
     "log/lifeStory/-list.md",
     "log/lifeStory/event",
     "log/lifeStory/rule/haloEffect.md",
     "idea/草稿.md",
-    "lib/Political/org/wendu/草稿.md",
-    "lib/Political/org/wendu/未命名.canvas",
-    "lib/englishPostgraduate/org/wendu/composition/未命名.md",
     "lib/englishPostgraduate/org/wendu/DicNRec/Answer Sheet/Adverbial Adjunct (grammar).md",
     "lib/englishPostgraduate/org/wendu/composition",
     "idea/线性代数/公式/Determinant.md",
@@ -246,8 +260,6 @@
     "lib/Political/org",
     "lib/Political",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
-    "idea/运算律.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Blank Sheet CA/等价无穷小 (A簿).md",
     "idea/线性代数",
     "lib/IdeologicalNPolitical/org/wendu",
     "lib/IdeologicalNPolitical/org",
