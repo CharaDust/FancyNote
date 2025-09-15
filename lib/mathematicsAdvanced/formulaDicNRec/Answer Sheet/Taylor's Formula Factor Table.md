@@ -11,73 +11,37 @@ $$
 \end{align*}
 $$
 #### Exp. & Pow. & Log. formula:
-$$
-\begin{align*}
-\mathrm{in}{~x=0~}\\
-{~e^x~}=&&{~1~}&&
-{~+\frac{~1~}{~1!~}x~}&&
-{~+\frac{~1~}{~2!~}x^2~}&&
-{~+\frac{~1~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
-{~\ln(1+x)~}=&&{~0~}&&
-{~+\frac{~1~}{~1!~}x~}&&
-{~+\frac{~-1~}{~2!~}x^2~}&&
-{~+\frac{~1~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
-{~(1+x)^\alpha~}=&&{~1~}&&
-{~+\frac{~\alpha~}{~1!~}x~}&&
-{~+\frac{~\alpha(\alpha-1)~}{~2!~}x^2~}&&
-{~+\frac{~\alpha(\alpha-1)(\alpha-2)~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}
-\end{align*}
-$$
+$\mathrm{in}{~x=0~}$
+
+| Function         |                                                                         $1$ |                        $x$ |                                $x^2$ |                                          $x^3$ | $\underline{o}(x^3)$ |
+| ---------------- | --------------------------------------------------------------------------: | -------------------------: | -----------------------------------: | ---------------------------------------------: | -------------------- |
+| $$e^x$$          |                $${\color{White} \frac{1}{1}}+1{\color{White} \frac{1}{1}}$$ |      $$+\frac{~1~}{~1!~}$$ |                $$+\frac{~1~}{~2!~}$$ |                          $$+\frac{~1~}{~3!~}$$ |                      |
+| $$\ln(1+x)$$     | $${\color{White} \frac{1}{1}}{\color{Gray} 0} {\color{White} \frac{1}{1}}$$ |      $$+\frac{~1~}{~1!~}$$ |               $$+\frac{~-1~}{~2!~}$$ |                          $$+\frac{~1~}{~3!~}$$ |                      |
+| $$(1+x)^\alpha$$ |                $${\color{White} \frac{1}{1}}+1{\color{White} \frac{1}{1}}$$ | $$+\frac{~\alpha~}{~1!~}$$ | $$+\frac{~\alpha(\alpha-1)~}{~2!~}$$ | $$+\frac{~\alpha(\alpha-1)(\alpha-2)~}{~3!~}$$ |                      |
+
 #### Trigonometry formula:
-$$
-\begin{align*}
-\mathrm{in}{~x=0~}\\
-{~\sin x~}=&&{~0~}&&
-{~+\frac{~1~}{1!}x~}&&
-{~+\frac{~0~}{2!}x^2~}&&
-{~+\frac{~-1~}{3!}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
-{~\cos x~}=&&{~1~}&&
-{~+\frac{~0~}{1!}x~}&&
-{~+\frac{~-1~}{2!}x^2~}&&
-{~+\frac{~0~}{3!}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
-{~\tan x~}=&&{~\color{White}~}&&
-{~\frac{~1~}{1}x~}&&
-{~\color{White}~}&&
-{~+\frac{~1~}{3}x^3~}&&
-{~+\underline{o}(x^3)~}
-\end{align*}
-$$
+$\mathrm{in}{~x=0~}$
+
+| Function   |                                                                         $1$ |                                $x$ |                               $x^2$ |                              $x^3$ | $\underline{o}(x^3)$ |
+| ---------- | --------------------------------------------------------------------------: | ---------------------------------: | ----------------------------------: | ---------------------------------: | -------------------- |
+| $$\sin x$$ | $${\color{White} \frac{1}{1}}{\color{Gray} 0}{\color{White} \frac{1}{1}} $$ |                $$+\frac{~1~}{1!}$$ | $${\color{Gray} +\frac{~0~}{2!}} $$ |               $$+\frac{~-1~}{3!}$$ |                      |
+| $$\cos x$$ |                $${\color{White} \frac{1}{1}}+1{\color{White} \frac{1}{1}}$$ | $${\color{Gray} +\frac{~0~}{1!}}$$ |                $$+\frac{~-1~}{2!}$$ | $${\color{Gray} +\frac{~0~}{3!}}$$ |                      |
+| $$\tan x$$ |                                                                        $$$$ |                  $$\frac{~1~}{1}$$ |                                $$$$ |                 $$+\frac{~1~}{3}$$ |                      |
+
 Note: The law of Taylor's formula for **Tangent Functions ($\tan x$)** is too complex, so consider memorizing this formula directly.
 #### Inverse trigonometric formula
-$$
-\begin{align*}
-\mathrm{in}{~x=0~}\\
-{~\arcsin x~}=&&{~\color{White}0~}&&
-{~\frac{~1~}{1}x~}&&
-{~\color{White}~}&&
-{~+\frac{~1~}{6}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
-{~\arctan x~}=&&{~0~}&&
-{~+\frac{~1~}{1}x~}&&
-{~+\frac{~0~}{2}x^2~}&&
-{~+\frac{~-1~}{3}x^3~}&&
-{~+\underline{o}(x^3)~}
-\end{align*}
-$$
+$\mathrm{in}{~x=0~}$
+
+| Function      |                                                                        $1$ |                $x$ |                             $x^2$ |               $x^3$ | $\underline{o}(x^3)$ |
+| ------------- | -------------------------------------------------------------------------: | -----------------: | --------------------------------: | ------------------: | -------------------- |
+| $$\arcsin x$$ |                                                                       $$$$ | $$+\frac{~1~}{1}$$ |                              $$$$ |  $$+\frac{~1~}{6}$$ |                      |
+| $$\arctan x$$ | $${\color{White} \frac{1}{1}}{\color{Gray} 0}{\color{White} \frac{1}{1}}$$ | $$+\frac{~1~}{1}$$ | $${\color{Gray} +\frac{~0~}{2}}$$ | $$+\frac{~-1~}{3}$$ |                      |
+
 Note: The law of Taylor's formula for **Inverse Sine Functions ($\arcsin x$)** is too complex, so consider memorizing this formula directly.
 #### Remainder:
-$$
-\begin{align*}
-\mathrm{in}{~x=0~}\\
-{~\frac{~1~}{~1-x~}~}=&&{~1~}&&
-{~+\frac{~1!~}{1!}x~}&&
-{~+\frac{~2!~}{2!}x^2~}&&
-{~+\frac{~3!~}{3!}x^3~}&&
-{~+\underline{o}(x^3)~}
-\end{align*}
-$$
+$\mathrm{in}{~x=0~}$
+
+| Function              |                                                          $1$ |                  $x$ |                $x^2$ |                $x^3$ | $\underline{o}(x^3)$ |
+| --------------------- | -----------------------------------------------------------: | -------------------: | -------------------: | -------------------: | -------------------- |
+| $$\frac{~1~}{~1-x~}$$ | $${\color{White} \frac{1}{1}}+1{\color{White} \frac{1}{1}}$$ | $$+\frac{~1!~}{1!}$$ | $$+\frac{~2!~}{2!}$$ | $$+\frac{~3!~}{3!}$$ |                      |
+| $$$$                  |                                                         $$$$ |                 $$$$ |                 $$$$ |                 $$$$ |                      |

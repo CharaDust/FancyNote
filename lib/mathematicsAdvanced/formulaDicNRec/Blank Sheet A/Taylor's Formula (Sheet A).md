@@ -15,20 +15,20 @@ $$
 \begin{align*}
 \mathrm{in}{~x=0~}\\
 {~e^x~}=&&{~\color{White}1~}&&
-{~\color{White}+\frac{~1~}{~1!~}x~}&&
-{~\color{White}+\frac{~1~}{~2!~}x^2~}&&
-{~\color{White}+\frac{~1~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
+{~\color{White}+\frac{~1~}{~1!~}x}&&
+{~\color{White}+\frac{~1~}{~2!~}x^2}&&
+{~\color{White}+\frac{~1~}{~3!~}x^3}&&
+{~+\underline{o}(x^3)}\\\\
 {~\ln(1+x)~}=&&{~\color{White}0~}&&
-{~\color{White}+\frac{~1~}{~1!~}x~}&&
-{~\color{White}+\frac{~-1~}{~2!~}x^2~}&&
-{~\color{White}+\frac{~1~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}\\\\
+{~\color{White}+\frac{~1~}{~1!~}x}&&
+{~\color{White}+\frac{~-1~}{~2!~}x^2}&&
+{~\color{White}+\frac{~1~}{~3!~}x^3}&&
+{~+\underline{o}(x^3)}\\\\
 {~(1+x)^\alpha~}=&&{~\color{White}1~}&&
-{~\color{White}+\frac{~\alpha~}{~1!~}x~}&&
-{~\color{White}+\frac{~\alpha(\alpha-1)~}{~2!~}x^2~}&&
-{~\color{White}+\frac{~\alpha(\alpha-1)(\alpha-2)~}{~3!~}x^3~}&&
-{~+\underline{o}(x^3)~}
+{~\color{White}+\frac{~\alpha~}{~1!~}x}&&
+{~\color{White}+\frac{~\alpha(\alpha-1)~}{~2!~}x^2}&&
+{~\color{White}+\frac{~\alpha(\alpha-1)(\alpha-2)~}{~3!~}x^3}&&
+{~+\underline{o}(x^3)}
 \end{align*}
 $$
 #### Trigonometry formula:
@@ -52,7 +52,6 @@ $$
 {~+\underline{o}(x^3)~}
 \end{align*}
 $$
-Note: The law of Taylor's formula for **Tangent Functions ($\tan x$)** is too complex, so consider memorizing this formula directly.
 #### Inverse trigonometric formula
 $$
 \begin{align*}
@@ -69,7 +68,6 @@ $$
 {~+\underline{o}(x^3)~}
 \end{align*}
 $$
-Note: The law of Taylor's formula for **Inverse Sine Functions ($\arcsin x$)** is too complex, so consider memorizing this formula directly.
 #### Remainder:
 $$
 \begin{align*}
