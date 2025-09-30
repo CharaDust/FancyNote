@@ -188,7 +188,10 @@
 		{"id":"68ad0b0c69d6db16","fromNode":"02235adc06012f50","fromSide":"right","toNode":"b32e8df4cd41a478","toSide":"left"},
 		{"id":"e6d551dc49bdf4ea","fromNode":"02235adc06012f50","fromSide":"right","toNode":"0fba68c13d18dc4e","toSide":"left"},
 		{"id":"2769451973237f39","fromNode":"dce06176d7f997e4","fromSide":"right","toNode":"c4eb8b6b6e644c88","toSide":"left"},
-		{"id":"751ab49ea50b6931","fromNode":"d1bfce4c2e9e2f6c","fromSide":"right","toNode":"f81065fecf8b3ca2","toSide":"left"}
+		{"id":"751ab49ea50b6931","fromNode":"d1bfce4c2e9e2f6c","fromSide":"right","toNode":"f81065fecf8b3ca2","toSide":"left"},
+		{"id":"794f4a136c732875","fromNode":"c98df45d5483baa3","fromSide":"right","toNode":"f614039a5a4b4fcf","toSide":"left"},
+		{"id":"71073c72d43e22a5","fromNode":"7e2180596b05d546","fromSide":"right","toNode":"f614039a5a4b4fcf","toSide":"left"},
+		{"id":"e7590819f2af810c","fromNode":"a08b44ae5e62edec","fromSide":"right","toNode":"9661d46fe1455859","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -389,15 +392,15 @@
 		{"id":"a0703cf7d9470ae8","type":"text","text":"双边区间无限\n\n$\\int_{-\\infty}^{+\\infty}f(X)~dx$","x":-5120,"y":560,"width":240,"height":100},
 		{"id":"809366f6bf90a245","type":"text","text":"单边区间无限\n\n$\\int_{a}^{+\\infty}f(x)~dx$","x":-4740,"y":400,"width":240,"height":100},
 		{"id":"12a8fe0818f52bae","type":"text","text":"区间切割","x":-4740,"y":580,"width":240,"height":60},
-		{"id":"fc99ee60bb7e0225","type":"text","text":"#### 无穷限 · p积分\n\n$$\\int_{1}^{+\\infty}\\frac{1}{x^p}~dx$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-4960,"y":840,"width":260,"height":200},
-		{"id":"a08b44ae5e62edec","type":"text","text":"#### 无穷限 · p积分推论\n\n$$\\int_{a}^{+\\infty}\\frac{1}{x\\ln^px}~dx~~(a>1)$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-4540,"y":840,"width":260,"height":200},
+		{"id":"fc99ee60bb7e0225","type":"text","text":"#### 无穷限 · p积分\n\n$a>0$时\n$$\\int_{a}^{+\\infty}\\frac{1}{x^p}~dx$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-4480,"y":840,"width":260,"height":220},
+		{"id":"a08b44ae5e62edec","type":"text","text":"#### 无穷限 · p积分推论\n\n$a>1$时\n$$\\int_{a}^{+\\infty}\\frac{1}{x\\ln^px}~dx~~(a>1)$$\n在$p>1$上收敛，\n在$p\\le1$上发散","x":-4060,"y":840,"width":260,"height":220},
 		{"id":"7e2180596b05d546","type":"text","text":"区间内被积函数无界\n\n$\\int_{-1}^{1}\\frac{1}{x}~dx$","x":-5420,"y":1620,"width":240,"height":100},
 		{"id":"5a635a9e1ce4e54d","type":"text","text":"瑕点位于区间双侧\n\n$\\int_{0}^{\\pi}\\csc x~dx$","x":-5040,"y":1620,"width":240,"height":100},
 		{"id":"d6af4abbc176c38b","type":"text","text":"瑕点位于区间中值\n\n$\\int_{-1}^{1}\\csc x~dx$","x":-5040,"y":1780,"width":240,"height":100},
-		{"id":"4349d46ea90ae11a","type":"text","text":"#### 瑕 · p积分\n\n$$\\int_{0}^{1}\\frac{1}{x^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-4960,"y":1100,"width":260,"height":200},
+		{"id":"4349d46ea90ae11a","type":"text","text":"#### 瑕 · p积分\n\n$a>0$时\n$$\\int_{0}^{a}\\frac{1}{x^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-4480,"y":1100,"width":260,"height":220},
 		{"id":"1ad374caef782019","type":"text","text":"瑕点位于区间单侧\n\n$\\int_{0}^{1}\\csc x~dx$","x":-4900,"y":1420,"width":240,"height":100},
 		{"id":"77877aa0c85d764b","type":"text","text":"区间切割","x":-4720,"y":1720,"width":240,"height":60},
-		{"id":"3be87914a1cc66f1","type":"text","text":"#### 瑕 · p积分推论\n\n$$\\int_{a}^{b}\\frac{1}{(x-a)^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-4540,"y":1100,"width":260,"height":200},
+		{"id":"3be87914a1cc66f1","type":"text","text":"#### 瑕 · p积分推论\n\n$b>a$时\n$$\\int_{a}^{b}\\frac{1}{(x-a)^p}~dx$$\n在$p<1$上收敛，\n在$p\\ge1$上发散","x":-4060,"y":1100,"width":260,"height":220},
 		{"id":"57ae5e3f586708e6","type":"text","text":"被积函数不可积","x":-4380,"y":1440,"width":240,"height":60},
 		{"id":"253b831475b6982a","type":"text","text":"被积函数可积","x":-4380,"y":1720,"width":240,"height":60},
 		{"id":"5f618efdb7ab896c","type":"text","text":"被积函数可积","x":-4360,"y":340,"width":240,"height":60},
@@ -407,7 +410,6 @@
 		{"id":"7ca343bfbeaea267","type":"text","text":"该反常积分收敛","x":-3640,"y":440,"width":240,"height":60},
 		{"id":"3cb6eb58685d4df7","type":"text","text":"#### 等价判别法\n\n$\\LaTeX$","x":-3980,"y":620,"width":260,"height":140},
 		{"id":"314d9fccdfc5b74f","type":"text","text":"求积分并判断存在性","x":-4020,"y":1720,"width":240,"height":60},
-		{"id":"a064cdc512938fa8","type":"text","text":"#### 比较判别法\n\n$\\LaTeX$","x":-3980,"y":1400,"width":260,"height":140},
 		{"id":"4f483f1a615a6bea","type":"text","text":"该反常积分发散","x":-3580,"y":1640,"width":240,"height":60},
 		{"id":"6a405cb2e3fb7bfc","type":"text","text":"该反常积分收敛","x":-3580,"y":1780,"width":240,"height":60},
 		{"id":"cb277df9b7f92854","type":"text","text":"含n式子中第n项与第1项相比不等于1","x":-2980,"y":-1560,"width":340,"height":60},
@@ -833,6 +835,9 @@
 		{"id":"e3be3c00711f6ea3","type":"text","text":"#### 莱布尼茨判别法","x":-1560,"y":1960,"width":240,"height":140},
 		{"id":"f81065fecf8b3ca2","type":"text","text":"求数列敛散性","x":-2680,"y":1600,"width":240,"height":60},
 		{"id":"dce06176d7f997e4","type":"text","text":"常数项级数","x":-2320,"y":1560,"width":240,"height":60},
-		{"id":"d1bfce4c2e9e2f6c","type":"text","text":"求数列敛散域","x":-3100,"y":1660,"width":240,"height":60}
+		{"id":"d1bfce4c2e9e2f6c","type":"text","text":"求数列敛散域","x":-3100,"y":1660,"width":240,"height":60},
+		{"id":"f614039a5a4b4fcf","type":"text","text":"#### 伽马积分（概率论）\n\n$$\\Gamma(r)=\\int_{0}^{+\\infty}x^{r-1}e^{-x}~dx$$\n在$r>0$上收敛，\n在$r\\le0$上发散","x":-4897,"y":977,"width":260,"height":220},
+		{"id":"a064cdc512938fa8","type":"text","text":"#### 比较判别法\n\n$\\LaTeX$  \n大收则小收，小发则大发  ","x":-3980,"y":1380,"width":260,"height":180},
+		{"id":"9661d46fe1455859","type":"text","text":"#### 无穷限 · 含对p/q积分\n\n$a>1$时\n$$\\int_{2}^{+\\infty}\\frac{1}{x^p\\ln^qx}~dx~~$$\n在$p>1$上收敛，\n在$p<1$上发散  \n在$p=1$时：  \n在$q>1$上收敛，\n在$q\\le1$上发散  ","x":-3640,"y":820,"width":280,"height":260}
 	]
 }
