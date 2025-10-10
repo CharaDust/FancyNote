@@ -117,7 +117,7 @@
 		{"id":"8fe658be99f8a517","fromNode":"efe480132c2659ee","fromSide":"right","toNode":"182dcb03dc84c1ee","toSide":"left"},
 		{"id":"64d4d7a98a6d0668","fromNode":"3e4bd0aaebb006f0","fromSide":"right","toNode":"efe480132c2659ee","toSide":"left"},
 		{"id":"aaa783992362b73d","fromNode":"cb277df9b7f92854","fromSide":"right","toNode":"0145effdf51ef173","toSide":"left"},
-		{"id":"c1dd88deb71b8c30","fromNode":"3e4bd0aaebb006f0","fromSide":"right","toNode":"cb277df9b7f92854","toSide":"left"},
+		{"id":"c1dd88deb71b8c30","fromNode":"3e4bd0aaebb006f0","fromSide":"right","toNode":"cb277df9b7f92854","toSide":"left","label":"首选"},
 		{"id":"cea33cf102f51df3","fromNode":"0145effdf51ef173","fromSide":"right","toNode":"35980f52cbb2895a","toSide":"left"},
 		{"id":"947831ad2fceff26","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"a0f0c796974b5fcb","toSide":"left"},
 		{"id":"d036e866016a3129","fromNode":"a728ea9a2da11318","fromSide":"right","toNode":"13652e482005800e","toSide":"left"},
@@ -191,7 +191,15 @@
 		{"id":"751ab49ea50b6931","fromNode":"d1bfce4c2e9e2f6c","fromSide":"right","toNode":"f81065fecf8b3ca2","toSide":"left"},
 		{"id":"794f4a136c732875","fromNode":"c98df45d5483baa3","fromSide":"right","toNode":"f614039a5a4b4fcf","toSide":"left"},
 		{"id":"71073c72d43e22a5","fromNode":"7e2180596b05d546","fromSide":"right","toNode":"f614039a5a4b4fcf","toSide":"left"},
-		{"id":"e7590819f2af810c","fromNode":"a08b44ae5e62edec","fromSide":"right","toNode":"9661d46fe1455859","toSide":"left"}
+		{"id":"e7590819f2af810c","fromNode":"a08b44ae5e62edec","fromSide":"right","toNode":"9661d46fe1455859","toSide":"left"},
+		{"id":"e28aff9e571bf405","fromNode":"e5050f067efd2f59","fromSide":"right","toNode":"fd0a8816f76845fb","toSide":"left"},
+		{"id":"7b976bb05fdc31b8","fromNode":"fd0a8816f76845fb","fromSide":"top","toNode":"3e4bd0aaebb006f0","toSide":"bottom"},
+		{"id":"ea0d22c82ba56dec","fromNode":"ac554b9c4bfa969f","fromSide":"right","toNode":"e5050f067efd2f59","toSide":"left"},
+		{"id":"f01ce831009a8784","fromNode":"3031eccadfe79946","fromSide":"right","toNode":"8fecfd27b84b0163","toSide":"left","label":"考虑"},
+		{"id":"991cfee93038ea87","fromNode":"7282e8d972fc3530","fromSide":"right","toNode":"bd8ddb9120254e0c","toSide":"left","label":"首选"},
+		{"id":"f8487b0cbefc8458","fromNode":"05411774d9995318","fromSide":"right","toNode":"3031eccadfe79946","toSide":"left"},
+		{"id":"0ce022f7a57ef62b","fromNode":"05411774d9995318","fromSide":"right","toNode":"7282e8d972fc3530","toSide":"left"},
+		{"id":"9031261986123781","fromNode":"05411774d9995318","fromSide":"right","toNode":"aa48399e6834c95f","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -838,6 +846,23 @@
 		{"id":"d1bfce4c2e9e2f6c","type":"text","text":"求数列敛散域","x":-3100,"y":1660,"width":240,"height":60},
 		{"id":"f614039a5a4b4fcf","type":"text","text":"#### 伽马积分（概率论）\n\n$$\\Gamma(r)=\\int_{0}^{+\\infty}x^{r-1}e^{-x}~dx$$\n在$r>0$上收敛，\n在$r\\le0$上发散","x":-4897,"y":977,"width":260,"height":220},
 		{"id":"a064cdc512938fa8","type":"text","text":"#### 比较判别法\n\n$\\LaTeX$  \n大收则小收，小发则大发  ","x":-3980,"y":1380,"width":260,"height":180},
-		{"id":"9661d46fe1455859","type":"text","text":"#### 无穷限 · 含对p/q积分\n\n$a>1$时\n$$\\int_{2}^{+\\infty}\\frac{1}{x^p\\ln^qx}~dx~~$$\n在$p>1$上收敛，\n在$p<1$上发散  \n在$p=1$时：  \n在$q>1$上收敛，\n在$q\\le1$上发散  ","x":-3640,"y":820,"width":280,"height":260}
+		{"id":"9661d46fe1455859","type":"text","text":"#### 无穷限 · 含对p/q积分\n\n$a>1$时\n$$\\int_{2}^{+\\infty}\\frac{1}{x^p\\ln^qx}~dx~~$$\n在$p>1$上收敛，\n在$p<1$上发散  \n在$p=1$时：  \n在$q>1$上收敛，\n在$q\\le1$上发散  ","x":-3640,"y":820,"width":280,"height":260},
+		{
+			"id":"fd0a8816f76845fb",
+			"styleAttributes":{},
+			"text":"幂指函数指数对数化",
+			"type":"text",
+			"x":-3280,
+			"y":-1560,
+			"width":240,
+			"height":60
+		},
+		{"id":"e5050f067efd2f59","type":"text","text":"n项求积","x":-3560,"y":-1560,"width":240,"height":60},
+		{"id":"3031eccadfe79946","type":"text","text":"存在通项等式\n\n$a_n=f(n)$","x":-2780,"y":1920,"width":240,"height":100},
+		{"id":"7282e8d972fc3530","type":"text","text":"存在递推等式\n\n$a_{n+1}=f(a_n)$","x":-2780,"y":2085,"width":240,"height":95},
+		{"id":"8fecfd27b84b0163","type":"text","text":"#### 拉格朗日不等式（需要证明）\n\n$$\\frac{x}{\\ln x}<\\ln(1+x)<\\frac 1n$$","x":-2400,"y":1880,"width":320,"height":140,"color":"5"},
+		{"id":"bd8ddb9120254e0c","x":-2400,"y":2060,"width":420,"height":400,"color":"5","type":"text","text":"#### 先求后设 $\\times$ 数学归纳法\n\n1. 猜边界：既然要你证明收敛，那$a_n$和$a_{n+1}$终会相等。不妨令$a_{n+1}=f(a_n)$为$A=f(A)$并求得A的值\n2. 猜方向：将A与$a_1$、$a_2$等相比较，确定将要证明单调递增还是单调递减\n3. 有界性证明：\n\t1. 验证$a_1\\le A$\n\t2. 假设$a_k\\le A$\n\t3. 证明$a_{k+1}\\le A$\n4. 单调性证明：\n\t1. 验证$a_1 \\le/ \\ge a_2$\n\t2. 假设$a_k \\le/ \\ge a_{k+1}$\n\t3. 证明$a_{k+1} \\le/ \\ge a_{k+2}$"},
+		{"id":"05411774d9995318","type":"text","text":"证明数列收敛","x":-3200,"y":2100,"width":240,"height":60},
+		{"id":"aa48399e6834c95f","x":-2780,"y":2240,"width":240,"height":100,"type":"text","text":"存在不等式\n\n"}
 	]
 }
