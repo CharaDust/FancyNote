@@ -92,16 +92,6 @@
 			"height":60
 		},
 		{
-			"id":"676246fc8ab03a93",
-			"styleAttributes":{},
-			"text":"仅存在反三角函数\n\n$\\arcsin x...$",
-			"type":"text",
-			"x":-205,
-			"y":-900,
-			"width":250,
-			"height":100
-		},
-		{
 			"id":"f93ae81eb2249ea5",
 			"styleAttributes":{},
 			"text":"存在对数函数\n\n$\\ln x$",
@@ -132,16 +122,6 @@
 			"height":120
 		},
 		{
-			"id":"607434e51a4d14ab",
-			"styleAttributes":{},
-			"text":"直接代换\n\n$\\rightarrow t$",
-			"type":"text",
-			"x":-5,
-			"y":520,
-			"width":250,
-			"height":100
-		},
-		{
 			"id":"5ed2be6bc9fa59c4",
 			"styleAttributes":{},
 			"text":"存在指数函数\n\n$a^x~~e^x$",
@@ -152,17 +132,6 @@
 			"height":100
 		},
 		{
-			"file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
-			"id":"0774a6bc9e7ca89c",
-			"styleAttributes":{},
-			"type":"file",
-			"x":535,
-			"y":120,
-			"width":460,
-			"height":400,
-			"color":"5"
-		},
-		{
 			"id":"5cf7915be5c4883a",
 			"styleAttributes":{},
 			"text":"存在根号\n\n$\\sqrt{x}$",
@@ -170,56 +139,6 @@
 			"x":-745,
 			"y":140,
 			"width":240,
-			"height":100
-		},
-		{
-			"id":"b675fdeb9a7fdfe4",
-			"styleAttributes":{},
-			"text":"根号下积分变量带多个次\n\n$\\sqrt{ax^2+bx+c}$",
-			"type":"text",
-			"x":-425,
-			"y":140,
-			"width":245,
-			"height":100
-		},
-		{
-			"id":"1436046bd6acbc9b",
-			"styleAttributes":{},
-			"text":"根号下积分变量带平方\n\n$\\sqrt{\\pm a^2\\pm x^2}$",
-			"type":"text",
-			"x":-425,
-			"y":260,
-			"width":245,
-			"height":120
-		},
-		{
-			"id":"3c5185c39bc319af",
-			"styleAttributes":{},
-			"text":"#### 三角代换\n\n$\\LaTeX$",
-			"type":"text",
-			"x":195,
-			"y":260,
-			"width":250,
-			"height":140
-		},
-		{
-			"id":"01ddd022812cdc0a",
-			"styleAttributes":{},
-			"text":"根式次数>2\n\n$\\sqrt[3]{ax+b}~~\\sqrt[4]{\\frac{ax+b}{cx+d}}~~\\sqrt[5]{ae^x+b}$",
-			"type":"text",
-			"x":-425,
-			"y":400,
-			"width":245,
-			"height":100
-		},
-		{
-			"id":"3fa908e65f5dc9a9",
-			"styleAttributes":{},
-			"text":"小配方\n\n$\\rightarrow \\sqrt{(mx+n)^2+r}$",
-			"type":"text",
-			"x":-85,
-			"y":140,
-			"width":200,
 			"height":100
 		},
 		{
@@ -366,7 +285,6 @@
 		{"id":"8b1d8feb45123531","type":"text","text":"分母存在多项式","x":-305,"y":780,"width":260,"height":100},
 		{"id":"12a8fa7e319398bb","type":"text","text":"无从下手？","x":-305,"y":1000,"width":260,"height":60},
 		{"id":"a8ebf9119aa87d73","type":"text","text":"#### 凑函数导数线性组合\n\n$$\\int\\frac{mf(x)+nf^\\prime(x)}{f(x)}$$\n求解m和n使得分子等于原式分子","x":155,"y":940,"width":300,"height":160},
-		{"id":"f68096a755dec4d9","type":"text","text":"随后将新的积分变量导入并回代反三角函数","x":575,"y":500,"width":380,"height":60},
 		{
 			"id":"6ab305f6d065e567",
 			"styleAttributes":{},
@@ -376,6 +294,118 @@
 			"y":-80,
 			"width":250,
 			"height":60
+		},
+		{
+			"id":"607434e51a4d14ab",
+			"styleAttributes":{},
+			"text":"直接代换\n\n$\\rightarrow t$",
+			"type":"text",
+			"x":260,
+			"y":520,
+			"width":250,
+			"height":100
+		},
+		{
+			"file":"lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Commutation method II.md",
+			"id":"0774a6bc9e7ca89c",
+			"styleAttributes":{},
+			"type":"file",
+			"x":960,
+			"y":120,
+			"width":460,
+			"height":400,
+			"color":"5"
+		},
+		{
+			"id":"3fa908e65f5dc9a9",
+			"styleAttributes":{},
+			"text":"小配方\n\n$\\rightarrow \\sqrt{(mx+n)^2+r}$",
+			"type":"text",
+			"x":340,
+			"y":140,
+			"width":200,
+			"height":100
+		},
+		{
+			"id":"3c5185c39bc319af",
+			"styleAttributes":{},
+			"text":"#### 三角代换\n\n$\\LaTeX$",
+			"type":"text",
+			"x":620,
+			"y":260,
+			"width":250,
+			"height":140
+		},
+		{"id":"f68096a755dec4d9","type":"text","text":"随后将新的积分变量导入并回代反三角函数","x":1000,"y":500,"width":380,"height":60},
+		{
+			"id":"b675fdeb9a7fdfe4",
+			"styleAttributes":{},
+			"text":"根号下积分变量带多个次\n\n$\\sqrt{ax^2+bx+c}$",
+			"type":"text",
+			"x":-280,
+			"y":140,
+			"width":245,
+			"height":100
+		},
+		{
+			"id":"1436046bd6acbc9b",
+			"styleAttributes":{},
+			"text":"根号下积分变量带平方\n\n$\\sqrt{\\pm a^2\\pm x^2}$",
+			"type":"text",
+			"x":-280,
+			"y":260,
+			"width":245,
+			"height":120
+		},
+		{
+			"id":"01ddd022812cdc0a",
+			"styleAttributes":{},
+			"text":"根式次数>2\n\n$\\sqrt[3]{ax+b}~~\\sqrt[4]{\\frac{ax+b}{cx+d}}~~\\sqrt[5]{ae^x+b}$",
+			"type":"text",
+			"x":-280,
+			"y":400,
+			"width":245,
+			"height":100
+		},
+		{
+			"id":"6cf2ae780e78fe15",
+			"styleAttributes":{},
+			"text":"根式位于分母\n\n$\\frac{x}{\\sqrt{(1+x)}}$",
+			"type":"text",
+			"x":-275,
+			"y":520,
+			"width":245,
+			"height":100
+		},
+		{
+			"id":"fe88530fc7e0fd24",
+			"styleAttributes":{},
+			"text":"仅存在三角函数\n\n$\\sin x...$",
+			"type":"text",
+			"x":-200,
+			"y":-1020,
+			"width":240,
+			"height":100
+		},
+		{
+			"id":"676246fc8ab03a93",
+			"styleAttributes":{},
+			"text":"仅存在反三角函数\n\n$\\arcsin x...$",
+			"type":"text",
+			"x":-200,
+			"y":-900,
+			"width":240,
+			"height":100
+		},
+		{
+			"id":"b70ec9c7bea0817f",
+			"styleAttributes":{},
+			"text":"#### 三角积分替换法则\n\n$\\LaTeX$基础阶段讲义三角函数环节",
+			"type":"text",
+			"x":380,
+			"y":-940,
+			"width":240,
+			"height":120
 		}
 	],
 	"edges":[
@@ -439,6 +469,10 @@
 		{"id":"c832f22627d7fe85","fromNode":"7285dcf82bc206f1","fromSide":"right","toNode":"a043274dc2ad62de","toSide":"left"},
 		{"id":"e482521d6fb38b87","fromNode":"dbf3c2ed9b674100","fromSide":"right","toNode":"7285dcf82bc206f1","toSide":"left"},
 		{"id":"b66d64b57df5be66","fromNode":"8b1d8feb45123531","fromSide":"right","toNode":"ea5b77459de210c8","toSide":"left"},
-		{"id":"ffe2ca2e47854f5b","fromNode":"12a8fa7e319398bb","fromSide":"right","toNode":"a8ebf9119aa87d73","toSide":"left","label":"考虑"}
+		{"id":"ffe2ca2e47854f5b","fromNode":"12a8fa7e319398bb","fromSide":"right","toNode":"a8ebf9119aa87d73","toSide":"left","label":"考虑"},
+		{"id":"7b72c601ac0cbcf1","fromNode":"5cf7915be5c4883a","fromSide":"right","toNode":"6cf2ae780e78fe15","toSide":"left"},
+		{"id":"9ceded6a4633ba87","fromNode":"6cf2ae780e78fe15","fromSide":"right","toNode":"607434e51a4d14ab","toSide":"left","label":"考虑"},
+		{"id":"8333265cf6bf8175","fromNode":"d01964f262353609","fromSide":"right","toNode":"fe88530fc7e0fd24","toSide":"left"},
+		{"id":"79e6d2dc0e10b196","fromNode":"fe88530fc7e0fd24","fromSide":"right","toNode":"b70ec9c7bea0817f","toSide":"left"}
 	]
 }

@@ -2,8 +2,14 @@
 	"nodes":[
 		{"id":"e09893e9592a5a97","type":"text","text":"","x":-160,"y":-120,"width":240,"height":100},
 		{"id":"c440513944b01b79","type":"text","text":"#### 公式卡片","x":-320,"y":-320,"width":240,"height":120},
-		{"id":"2c3d37b174afe0a3","x":180,"y":-120,"width":240,"height":120,"type":"text","text":"#### 范德蒙行列式"},
-		{"id":"3ccbee01eff666e1","type":"text","text":"#### 行列式展开定理","x":180,"y":40,"width":240,"height":120}
+		{"id":"2c3d37b174afe0a3","type":"text","text":"#### 范德蒙行列式","x":180,"y":-120,"width":240,"height":120},
+		{"id":"3ccbee01eff666e1","type":"text","text":"#### 行列式展开定理","x":180,"y":40,"width":240,"height":120},
+		{"id":"0d78313e68d26c2b","type":"text","text":"配方","x":-120,"y":460,"width":240,"height":76},
+		{"id":"8ee7c838bb45fe65","type":"text","text":"化标准型后求特征值正数个数","x":-120,"y":300,"width":240,"height":76},
+		{"id":"ab38d8c85526c753","type":"text","text":"求惯性指数","x":-480,"y":380,"width":240,"height":76}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"199e9cb21cf2052c","fromNode":"ab38d8c85526c753","fromSide":"right","toNode":"8ee7c838bb45fe65","toSide":"left"},
+		{"id":"6fa4a95212f39990","fromNode":"ab38d8c85526c753","fromSide":"right","toNode":"0d78313e68d26c2b","toSide":"left"}
+	]
 }

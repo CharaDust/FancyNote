@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lib/IdeologicalNPolitical/org/wendu/草稿.md",
+                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿"
-            }
-          },
-          {
-            "id": "094432274b6e305b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differential"
-            }
-          },
-          {
-            "id": "f233e903d78e28b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/englishPostgraduate/org/wendu/composition/常用句型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常用句型"
-            }
-          },
-          {
-            "id": "b6170d14be9da0a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/englishPostgraduate/org/wendu/composition/行文大纲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "行文大纲"
+              "title": "政治草稿"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/englishPostgraduate/org/wendu/composition/行文大纲.md",
+                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "行文大纲 的大纲"
+              "title": "政治草稿 的大纲"
             }
           }
         ],
@@ -212,22 +169,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b6170d14be9da0a7",
+  "active": "8afefe81e2021436",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
+    "idea/线性代数/线性代数方法论.canvas",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
+    "lib/IdeologicalNPolitical/org/wendu/未命名.canvas",
+    "idea/线性代数/公式/Determinant.md",
+    "idea/线性代数/线性代数逻辑论.canvas",
+    "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
+    "idea/线性代数/公式/行列式.md",
+    "idea/线性代数/公式/矩阵.md",
     "lib/englishPostgraduate/org/wendu/composition/常用句型.md",
     "lib/englishPostgraduate/org/wendu/composition/行文大纲.md",
-    "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
-    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
-    "未命名.base",
-    "Untitled 1.md",
-    "Untitled.md",
-    "lib/IdeologicalNPolitical/org/wendu/草稿.md",
-    "lib/IdeologicalNPolitical/org/wendu/未命名.canvas",
-    "idea/草稿.md",
+    "lib/computerDataStructNAlgorithms/org/XiaoWang/操作系统综合题知识点.md",
     "lib/computerDataStructNAlgorithms/org/XiaoWang/组成原理综合题知识点.md",
+    "idea/草稿.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
+    "未命名.base",
+    "Untitled.md",
     "README.md",
     "未命名 1.base",
     "log/lifeStory/event/-list.md",
@@ -240,15 +204,8 @@
     "lib/computerDataStructNAlgorithms/org/XiaoWang",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table (Sheet A).md",
     "idea/线性代数/公式/秩（A簿）.md",
-    "lib/mathematicsAdvanced/org/wendu/强化 1.3.md",
-    "lib/mathematicsAdvanced/org/wendu/强化 1.2.md",
-    "log/lifeStory/event/Golden House Event I.md",
-    "log/lifeStory/event/Golden House Event II.md",
-    "log/lifeStory/event/Golden House Event III.md",
     "log/lifeStory/event",
     "lib/englishPostgraduate/org/wendu/composition",
-    "idea/线性代数/线性代数逻辑论.canvas",
-    "idea/线性代数/线性代数方法论.canvas",
     "idea/线性代数/公式",
     "Pasted image 20250807150826.png",
     "lib/mathematicsAdvanced/org/wendu/canvas/求微分方程.canvas",

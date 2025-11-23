@@ -1,0 +1,3 @@
+Net1 4 R4
+Net2 3 R4
+Net3 2 R4

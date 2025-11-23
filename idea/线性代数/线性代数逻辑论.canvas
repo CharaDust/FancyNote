@@ -32,7 +32,8 @@
 			"toNode":"a5c1d9607feed1fa",
 			"toSide":"left",
 			"color":"1"
-		}
+		},
+		{"id":"d5a302adb0320e26","fromNode":"8bae01805852266b","fromSide":"right","toNode":"fedd40d144fa1175","toSide":"left"}
 	],
 	"nodes":[
 		{
@@ -312,6 +313,26 @@
 			"styleAttributes":{},
 			"x":580,
 			"y":20,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"8bae01805852266b",
+			"text":"$$\\mathbf{A}\\&\\mathbf{B}合同$$",
+			"type":"text",
+			"styleAttributes":{},
+			"x":1001,
+			"y":1160,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"fedd40d144fa1175",
+			"text":"$$\\mathbf{A}\\&\\mathbf{B}正负惯性指数相等$$",
+			"type":"text",
+			"styleAttributes":{},
+			"x":1340,
+			"y":1160,
 			"width":240,
 			"height":80
 		}
