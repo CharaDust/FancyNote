@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1098e9add96804a9",
+        "id": "26cf12f73107a0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "8afefe81e2021436",
+            "id": "065c8234cf5279e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "政治草稿"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "政治草稿 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -169,8 +164,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8afefe81e2021436",
+  "active": "065c8234cf5279e7",
   "lastOpenFiles": [
+    "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
     "Untitled 1.md",
     "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
     "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
@@ -179,7 +175,6 @@
     "lib/IdeologicalNPolitical/org/wendu/未命名.canvas",
     "idea/线性代数/公式/Determinant.md",
     "idea/线性代数/线性代数逻辑论.canvas",
-    "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "idea/线性代数/公式/行列式.md",
     "idea/线性代数/公式/矩阵.md",
