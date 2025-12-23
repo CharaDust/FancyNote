@@ -11,10 +11,14 @@
             "id": "065c8234cf5279e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "政治草稿"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "政治草稿 的大纲"
             }
           }
         ],
@@ -166,15 +171,19 @@
   },
   "active": "065c8234cf5279e7",
   "lastOpenFiles": [
+    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
+    "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
+    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
+    "idea/草稿.md",
+    "idea/待整理的数学公式.md",
+    "idea/创新创业计划书.md",
+    "idea/线性代数/线性代数方法论.canvas",
+    "idea/线性代数/线性代数逻辑论.canvas",
     "lib/IdeologicalNPolitical/org/wendu/政治草稿.md",
     "Untitled 1.md",
-    "lib/mathematicsAdvanced/org/wendu/canvas/高等数学方法论概览.canvas",
-    "lib/mathematicsAdvanced/org/wendu/canvas/求不定积分.canvas",
-    "idea/线性代数/线性代数方法论.canvas",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Integral.md",
     "lib/IdeologicalNPolitical/org/wendu/未命名.canvas",
     "idea/线性代数/公式/Determinant.md",
-    "idea/线性代数/线性代数逻辑论.canvas",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Trigonometric Functions.md",
     "idea/线性代数/公式/行列式.md",
     "idea/线性代数/公式/矩阵.md",
@@ -182,8 +191,6 @@
     "lib/englishPostgraduate/org/wendu/composition/行文大纲.md",
     "lib/computerDataStructNAlgorithms/org/XiaoWang/操作系统综合题知识点.md",
     "lib/computerDataStructNAlgorithms/org/XiaoWang/组成原理综合题知识点.md",
-    "idea/草稿.md",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Differential.md",
     "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Equivalent Infinitesimal.md",
     "未命名.base",
     "Untitled.md",
@@ -197,8 +204,6 @@
     "lib/mathematicsAdvanced/org/wendu/强化 1.5.md",
     "lib/mathematicsAdvanced/org/wendu/强化 1.1.md",
     "lib/computerDataStructNAlgorithms/org/XiaoWang",
-    "lib/mathematicsAdvanced/formulaDicNRec/Answer Sheet/Taylor's Formula Factor Table (Sheet A).md",
-    "idea/线性代数/公式/秩（A簿）.md",
     "log/lifeStory/event",
     "lib/englishPostgraduate/org/wendu/composition",
     "idea/线性代数/公式",
