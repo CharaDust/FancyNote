@@ -14,8 +14,8 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 # 配置
-INPUT_FOLDER = "PATH"  # 填入你的文件路径
-COOKIES = {"PHPSESSID": "XXXXXXXX"} # 填入你的cookie
+INPUT_FOLDER = "C:\\Personal\\Files\\Temporary Files\\pix"  # 填入你的文件路径
+COOKIES = {"PHPSESSID": "51900290_d03VsJJhH1nS0NZarqWMSMFUfamad8FK"} # 填入你的cookie
 DELAY = 2  # 请求间隔(秒)
 
 def block_interrupt():
